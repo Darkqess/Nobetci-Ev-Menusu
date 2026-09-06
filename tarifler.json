@@ -1,0 +1,2700 @@
+[
+  {
+    "id": 1,
+    "ad": "Menemen",
+    "ogun": ["kahvalti"],
+    "kisi_sayisi": "2 Kişilik",
+    "hazirlik_suresi": "5 dk",
+    "pisirme_suresi": "10 dk",
+    "sure": "15 dk",
+    "kalori": 280,
+    "protein": "14g",
+    "karbonhidrat": "10g",
+    "malzemeler": ["Yumurta", "Domates", "Biber", "Sıvı Yağ"],
+    "hazirlanis": [
+      "1. Adım (3 dk): Biberleri ince ince doğrayıp tavada sıvı yağda kavurun.",
+      "2. Adım (5 dk): Küp doğranmış domatesleri ekleyip suyunu çekene kadar orta ateşte pişirin.",
+      "3. Adım (2 dk): Yumurtaları kırıp sarılarını hafifçe dağıtarak istediğiniz kıvama gelene kadar karıştırın."
+    ]
+  },
+  {
+    "id": 2,
+    "ad": "Avokadolu Poşe Yumurta (Sosyal Medya Trendi)",
+    "ogun": ["kahvalti"],
+    "kisi_sayisi": "1 Kişilik",
+    "hazirlik_suresi": "5 dk",
+    "pisirme_suresi": "5 dk",
+    "sure": "10 dk",
+    "kalori": 340,
+    "protein": "12g",
+    "karbonhidrat": "22g",
+    "malzemeler": ["Yumurta", "Ekmek", "Avokado", "Zeytinyağı"],
+    "hazirlanis": [
+      "1. Adım (2 dk): Ekmeği tavada veya tost makinesinde çıtır olana kadar kızartın.",
+      "2. Adım (3 dk): Olgunlaşmış avokadoyu çatalla ezip tuz ve zeytinyağı ile karıştırıp ekmeğe sürün.",
+      "3. Adım (3 dk): Kaynayan sirkeli suda anafor oluşturup yumurtayı 3 dakika haşlayın ve ekmeğin üzerine koyun."
+    ]
+  },
+  {
+    "id": 3,
+    "ad": "Kabak Mücver",
+    "ogun": ["kahvalti", "ogle"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "25 dk",
+    "kalori": 210,
+    "protein": "8g",
+    "karbonhidrat": "18g",
+    "malzemeler": ["Kabak", "Yumurta", "Un", "Dereotu", "Beyaz Peynir"],
+    "hazirlanis": [
+      "1. Adım (5 dk): Kabakları rendeleyip avucunuzla suyunu tamamen sıkın.",
+      "2. Adım (3 dk): İnce kıyılmış dereotu, yumurta, ufalanmış beyaz peynir ve unu ekleyip homojen karıştırın.",
+      "3. Adım (7 dk): Kızgın yağda kaşık yardımıyla dökerek arkalı önlü altın sarısı olana kadar kızartın."
+    ]
+  },
+  {
+    "id": 4,
+    "ad": "Peynirli Tost ve Gözleme",
+    "ogun": ["kahvalti", "fastfood"],
+    "kisi_sayisi": "2 Kişilik",
+    "hazirlik_suresi": "3 dk",
+    "pisirme_suresi": "7 dk",
+    "sure": "10 dk",
+    "kalori": 420,
+    "protein": "16g",
+    "karbonhidrat": "45g",
+    "malzemeler": ["Ekmek", "Kaşar Peyniri", "Tereyağı", "Yufka"],
+    "hazirlanis": [
+      "1. Adım (2 dk): Yufkayı katlayıp içine kaşar koyun veya ekmek arasına peynir dilimlerini dizin.",
+      "2. Adım (5 dk): Tavada veya tost makinesinde tereyağında iki tarafı da çıtır kızarana kadar pişirin."
+    ]
+  },
+  {
+    "id": 5,
+    "ad": "Krep (Akıtma)",
+    "ogun": ["kahvalti"],
+    "kisi_sayisi": "3 Kişilik",
+    "hazirlik_suresi": "5 dk",
+    "pisirme_suresi": "10 dk",
+    "sure": "15 dk",
+    "kalori": 230,
+    "protein": "7g",
+    "karbonhidrat": "30g",
+    "malzemeler": ["Un", "Süt", "Yumurta", "Sıvı Yağ"],
+    "hazirlanis": [
+      "1. Adım (4 dk): Un, süt ve yumurtayı pürüzsüz akışkan bir kıvam alana kadar çırpın.",
+      "2. Adım (6 dk): Hafif yağlanmış kızgın tavaya kepçe ile döküp yayarak arkalı önlü göz göz olana kadar pişirin."
+    ]
+  },
+  {
+    "id": 6,
+    "ad": "Sucuklu Yumurta",
+    "ogun": ["kahvalti"],
+    "kisi_sayisi": "2 Kişilik",
+    "hazirlik_suresi": "3 dk",
+    "pisirme_suresi": "7 dk",
+    "sure": "10 dk",
+    "kalori": 450,
+    "protein": "22g",
+    "karbonhidrat": "4g",
+    "malzemeler": ["Sucuk", "Yumurta", "Tereyağı"],
+    "hazirlanis": [
+      "1. Adım (3 dk): Dilimlenmiş sucukları erimiş tereyağında hafifçe arkalı önlü kızartın.",
+      "2. Adım (4 dk): Yumurtaları üzerine kırıp sarılarını patlatmadan kısık ateşte istediğiniz sertliğe gelene kadar pişirin."
+    ]
+  },
+  {
+    "id": 7,
+    "ad": "Mercimek Çorbası",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "5 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "20 dk",
+    "kalori": 160,
+    "protein": "9g",
+    "karbonhidrat": "24g",
+    "malzemeler": ["Mercimek", "Soğan", "Salça", "Un", "Sıvı Yağ"],
+    "hazirlanis": [
+      "1. Adım (3 dk): Yemeklik doğranmış soğanı sıvı yağda pembeleştirip unu ekleyin ve kavurun.",
+      "2. Adım (2 dk): Salça ve yıkanmış mercimeği ekleyip karıştırın, üzerine sıcak suyu ilave edin.",
+      "3. Adım (10 dk): Mercimekler yumuşayana kadar pişirip ardından el blenderından geçirerek pürüzsüz yapın."
+    ]
+  },
+  {
+    "id": 8,
+    "ad": "Ezogelin Çorbası",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "5 dk",
+    "pisirme_suresi": "20 dk",
+    "sure": "25 dk",
+    "kalori": 175,
+    "protein": "8g",
+    "karbonhidrat": "27g",
+    "malzemeler": ["Mercimek", "Pirinç", "Bulgur", "Soğan", "Salça", "Nane"],
+    "hazirlanis": [
+      "1. Adım (12 dk): Yıkanmış mercimek, pirinç ve bulguru tencerede su ile haşlayın.",
+      "2. Adım (5 dk): Ayrı bir tavada soğan, salça ve naneyi yağda kavurarak sos hazırlayın.",
+      "3. Adım (3 dk): Sosu çorbaya ekleyip kısık ateşte bakliyatlar iyice yumuşayana kadar özleştirin."
+    ]
+  },
+  {
+    "id": 9,
+    "ad": "Domates Çorbası",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "5 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "20 dk",
+    "kalori": 190,
+    "protein": "5g",
+    "karbonhidrat": "20g",
+    "malzemeler": ["Domates", "Un", "Süt", "Kaşar Peyniri", "Tereyağı"],
+    "hazirlanis": [
+      "1. Adım (4 dk): Tereyağında unu kokusu çıkana kadar kavurup rendelenmiş domatesleri ekleyin.",
+      "2. Adım (8 dk): Yavaşça su ve ardından sütü ilave edip çırpma teliyle sürekli karıştırarak kaynatın.",
+      "3. Adım (3 dk): Kısık ateşte kıvam aldıktan sonra kaseye alıp üzerine rendelenmiş kaşar serperek servis yapın."
+    ]
+  },
+  {
+    "id": 10,
+    "ad": "Tavuk Suyu Çorbası",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "20 dk",
+    "sure": "30 dk",
+    "kalori": 150,
+    "protein": "12g",
+    "karbonhidrat": "14g",
+    "malzemeler": ["Tavuk", "Havuç", "Sarımsak", "Un", "Tereyağı", "Pirinç"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Tavuk etini haşlayıp tel tel didikleyin.",
+      "2. Adım (4 dk): Rendelenmiş havucu ve ezilmiş sarımsağı tereyağında hafifçe soteleyin.",
+      "3. Adım (6 dk): Süzülmüş tavuk suyunu, pirinci ve didiklenmiş tavukları ekleyip pirinçler yumuşayana kadar pişirin."
+    ]
+  },
+  {
+    "id": 11,
+    "ad": "Mantar Çorbası",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "25 dk",
+    "kalori": 165,
+    "protein": "6g",
+    "karbonhidrat": "15g",
+    "malzemeler": ["Mantar", "Un", "Süt", "Tereyağı", "Sıvı Yağ"],
+    "hazirlanis": [
+      "1. Adım (5 dk): İnce doğranmış mantarları yüksek ateşte suyunu salıp çekene kadar soteleyin.",
+      "2. Adım (5 dk): Un ve tereyağını ekleyip kavurun, ardından ılık süt ve suyu yavaşça çırparak ekleyin.",
+      "3. Adım (5 dk): Kaynayana kadar karıştırıp kısık ateşte 5 dakika kadar pişirin."
+    ]
+  },
+  {
+    "id": 12,
+    "ad": "Karnıyarık",
+    "ogun": ["aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "20 dk",
+    "pisirme_suresi": "30 dk",
+    "sure": "50 dk",
+    "kalori": 310,
+    "protein": "15g",
+    "karbonhidrat": "12g",
+    "malzemeler": ["Patlıcan", "Kıyma", "Soğan", "Domates", "Biber", "Salça"],
+    "hazirlanis": [
+      "1. Adım (15 dk): Patlıcanları alacalı soyup yağda kızartın ve kaşıkla ortalarını açın.",
+      "2. Adım (10 dk): Tavada kıyma, yemeklik soğan, biber, domates ve salçayı kavurarak iç harcı hazırlayın.",
+      "3. Adım (25 dk): Harcı patlıcanlara doldurup salçalı su ekleyerek 180 derece fırında pişirin."
+    ]
+  },
+  {
+    "id": 13,
+    "ad": "Fırında Patatesli Köfte",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "30 dk",
+    "sure": "45 dk",
+    "kalori": 380,
+    "protein": "20g",
+    "karbonhidrat": "32g",
+    "malzemeler": ["Kıyma", "Patates", "Soğan", "Salça", "Biber"],
+    "hazirlanis": [
+      "1. Adım (8 dk): Kıyma, rendelenmiş soğan ve baharatları yoğurarak köfteleri şekillendirin.",
+      "2. Adım (7 dk): Patatesleri elma dilim doğrayıp köftelerle birlikte tepsiye dizin.",
+      "3. Adım (30 dk): Üzerine salçalı sıcak su gezdirip fırında patatesler yumuşayıp kızarana kadar pişirin."
+    ]
+  },
+  {
+    "id": 14,
+    "ad": "Kremalı Tavuklu Makarna",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "3 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "25 dk",
+    "kalori": 520,
+    "protein": "26g",
+    "karbonhidrat": "55g",
+    "malzemeler": ["Tavuk", "Makarna", "Krema", "Mantar"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Makarnayı bol tuzlu suda haşlayıp süzün.",
+      "2. Adım (10 dk): Küp doğranmış tavuk ve mantarları tavada yüksek ateşte soteleyip hazır olan kremayı ekleyin.",
+      "3. Adım (5 dk): Haşlanan makarnayı sosun içine atıp 2 dakika çektirerek sıcak servis edin."
+    ]
+  },
+  {
+    "id": 15,
+    "ad": "TikTok Usulü Fırında Feta/Peynirli Makarna",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "3 Kişilik",
+    "hazirlik_suresi": "5 dk",
+    "pisirme_suresi": "20 dk",
+    "sure": "25 dk",
+    "kalori": 490,
+    "protein": "18g",
+    "karbonhidrat": "58g",
+    "malzemeler": ["Makarna", "Beyaz Peynir", "Domates", "Sarımsak", "Zeytinyağı"],
+    "hazirlanis": [
+      "1. Adım (3 dk): Borcamın ortasına kalıp beyaz peynir koyup etrafına çeri domates ve ezilmiş sarımsak dizin.",
+      "2. Adım (15 dk): Üzerine zeytinyağı gezdirip 200 derece fırında domatesler çatlayana kadar pişirin.",
+      "3. Adım (7 dk): Fırından çıkarıp çatalla ezin ve ayrı yerde haşladığınız sıcak makarnayla harmanlayın."
+    ]
+  },
+  {
+    "id": 16,
+    "ad": "Airfryer'da Çıtır Tavuk Baget",
+    "ogun": ["ogle", "aksam", "fastfood"],
+    "kisi_sayisi": "2 Kişilik",
+    "hazirlik_suresi": "5 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "20 dk",
+    "kalori": 340,
+    "protein": "28g",
+    "karbonhidrat": "12g",
+    "malzemeler": ["Tavuk", "Süt", "Un", "Sıvı Yağ"],
+    "hazirlanis": [
+      "1. Adım (3 dk): Tavuk bagetleri süt ve baharat karışımında kısa süre marine edin.",
+      "2. Adım (2 dk): Süzülen tavukları baharatlı un karışımına iyice bulayıp Airfryer haznesine dizin.",
+      "3. Adım (15 dk): Üzerine çok hafif yağ püskürtüp 190 derecede kızarana kadar pişirin."
+    ]
+  },
+  {
+    "id": 17,
+    "ad": "Zeytinyağlı Taze Fasulye",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "30 dk",
+    "sure": "40 dk",
+    "kalori": 140,
+    "protein": "3g",
+    "karbonhidrat": "12g",
+    "malzemeler": ["Taze Fasulye", "Domates", "Soğan", "Zeytinyağı"],
+    "hazirlanis": [
+      "1. Adım (5 dk): Doğranmış soğanları zeytinyağında pembeleştirip temizlenmiş fasulyeleri ekleyin.",
+      "2. Adım (5 dk): Rendelenmiş bol domates, şeker ve tuzu ekleyip karıştırın.",
+      "3. Adım (30 dk): Kısık ateşte kendi suyuyla ve çok az sıcak su ekleyerek fasulyeler yumuşayana kadar pişirin."
+    ]
+  },
+  {
+    "id": 18,
+    "ad": "Kore Usulü Acılı/Tatlı Noodle",
+    "ogun": ["ogle", "aksam", "fastfood"],
+    "kisi_sayisi": "1 Kişilik",
+    "hazirlik_suresi": "3 dk",
+    "pisirme_suresi": "7 dk",
+    "sure": "10 dk",
+    "kalori": 390,
+    "protein": "9g",
+    "karbonhidrat": "60g",
+    "malzemeler": ["Noodle", "Sarımsak", "Soya Sosu", "Salça", "Sıvı Yağ"],
+    "hazirlanis": [
+      "1. Adım (4 dk): Noodle'ı kaynayan suda paketteki süreye göre haşlayın.",
+      "2. Adım (2 dk): Tavada sıvı yağ, ezilmiş sarımsak, salça ve soya sosunu hafifçe kızdırın.",
+      "3. Adım (1 dk): Haşlanıp süzülen noodle'ı sosa atıp yüksek ateşte 1 dakika çevirip servis edin."
+    ]
+  },
+  {
+    "id": 19,
+    "ad": "Tavuklu Sote",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "3 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "20 dk",
+    "sure": "30 dk",
+    "kalori": 290,
+    "protein": "32g",
+    "karbonhidrat": "8g",
+    "malzemeler": ["Tavuk", "Biber", "Domates", "Soğan", "Sarımsak", "Salça", "Sıvı Yağ"],
+    "hazirlanis": [
+      "1. Adım (8 dk): Küp doğranmış tavukları tavada suyunu salıp çekene kadar soteleyin.",
+      "2. Adım (5 dk): Yemeklik doğranmış soğan, biber ve sarımsağı ekleyip kavurmaya devam edin.",
+      "3. Adım (7 dk): Salça ve domatesi ekleyip tencerenin kapağını kapatın, kısık ateşte pişirin."
+    ]
+  },
+  {
+    "id": 20,
+    "ad": "Etli Kuru Fasulye",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "40 dk",
+    "sure": "50 dk",
+    "kalori": 320,
+    "protein": "18g",
+    "karbonhidrat": "36g",
+    "malzemeler": ["Fasulye", "Kuşbaşı Et", "Soğan", "Salça", "Tereyağı"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Kuşbaşı etleri düdüklüde suyunu çekene kadar tereyağında kavurun.",
+      "2. Adım (5 dk): Soğan ve salçayı ekleyip kokusu çıkana kadar kavurmaya devam edin.",
+      "3. Adım (25 dk): Akşamdan ıslatılmış fasulyeyi ve üzerini geçecek kadar sıcak suyu ekleyip düdüklüde pişirin."
+    ]
+  },
+  {
+    "id": 21,
+    "ad": "Şehriyeli Pirinç Pilavı",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "5 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "20 dk",
+    "kalori": 280,
+    "protein": "5g",
+    "karbonhidrat": "45g",
+    "malzemeler": ["Pirinç", "Tereyağı", "Sıvı Yağ"],
+    "hazirlanis": [
+      "1. Adım (3 dk): Şehriyeleri tereyağı ve sıvı yağ karışımında rengi dönene kadar kavurun.",
+      "2. Adım (4 dk): Yıkanıp süzülmüş pirinci ekleyip şeffaflaşana kadar 3-4 dakika daha kavurun.",
+      "3. Adım (8 dk): Sıcak su ve tuz ekleyip tencerenin kapağını kapatın, suyunu çekene kadar kısık ateşte pişirin."
+    ]
+  },
+  {
+    "id": 22,
+    "ad": "Bulgur Pilavı",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "5 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "20 dk",
+    "kalori": 240,
+    "protein": "7g",
+    "karbonhidrat": "42g",
+    "malzemeler": ["Bulgur", "Soğan", "Domates", "Biber", "Salça", "Tereyağı"],
+    "hazirlanis": [
+      "1. Adım (5 dk): Doğranmış soğan ve biberi tereyağında kavurun, ardından salça ve rendelenmiş domatesi ekleyin.",
+      "2. Adım (2 dk): Yıkanmış bulguru ekleyip 1-2 dakika karıştırarak kavurun.",
+      "3. Adım (8 dk): Sıcak su ilave edip kısık ateşte suyunu çekene kadar pişmeye bırakın."
+    ]
+  },
+  {
+    "id": 23,
+    "ad": "İmam Bayıldı",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "30 dk",
+    "sure": "45 dk",
+    "kalori": 220,
+    "protein": "3g",
+    "karbonhidrat": "18g",
+    "malzemeler": ["Patlıcan", "Soğan", "Domates", "Biber", "Sarımsak", "Zeytinyağı"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Patlıcanları alacalı soyup kızartın ya da fırınlayın.",
+      "2. Adım (10 dk): Bol piyazlık soğan, domates, biber ve sarımsağı zeytinyağında karamelize olana kadar soteleyin.",
+      "3. Adım (10 dk): Harcı patlıcanların ortasına doldurup az miktarda su ile tencerede kısık ateşte pişirin."
+    ]
+  },
+  {
+    "id": 24,
+    "ad": "Kıymalı Patates Yemeği",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "25 dk",
+    "sure": "35 dk",
+    "kalori": 270,
+    "protein": "12g",
+    "karbonhidrat": "28g",
+    "malzemeler": ["Patates", "Kıyma", "Soğan", "Salça", "Sıvı Yağ"],
+    "hazirlanis": [
+      "1. Adım (5 dk): Kıyma ve doğranmış soğanı sıvı yağda kavurun, salçayı ekleyin.",
+      "2. Adım (5 dk): Küp küp doğranmış patatesleri ekleyip birkaç dakika karıştırarak soteleyin.",
+      "3. Adım (15 dk): Üzerini geçecek kadar sıcak su ekleyip patatesler yumuşayana kadar orta ateşte pişirin."
+    ]
+  },
+  {
+    "id": 25,
+    "ad": "Ispanak Yemeği",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "25 dk",
+    "kalori": 130,
+    "protein": "4g",
+    "karbonhidrat": "14g",
+    "malzemeler": ["Ispanak", "Pirinç", "Soğan", "Salça", "Sıvı Yağ"],
+    "hazirlanis": [
+      "1. Adım (4 dk): Soğanı sıvı yağda kavurup salçayı kokusu çıkana kadar ekleyin.",
+      "2. Adım (3 dk): Doğranmış ve yıkanmış ıspanakları tencereye alıp hafifçe söndürün.",
+      "3. Adım (8 dk): Yıkanmış pirinci ve yarım çay bardağı sıcak suyu ekleyip kısık ateşte pişirin."
+    ]
+  },
+  {
+    "id": 26,
+    "ad": "Tavuklu Sote Bohça Böreği (Milföylü)",
+    "ogun": ["ogle", "aksam", "fastfood"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "30 dk",
+    "kalori": 480,
+    "protein": "19g",
+    "karbonhidrat": "38g",
+    "malzemeler": ["Milföy", "Tavuk", "Mantar", "Biber", "Kaşar Peyniri"],
+    "hazirlanis": [
+      "1. Adım (8 dk): Tavuk, mantar ve biberi tavada soteleyip soğumaya bırakın.",
+      "2. Adım (5 dk): Yumuşayan milföy hamurlarının ortasına harcı koyup kaşar serpin ve zarf şeklinde kapatın.",
+      "3. Adım (12 dk): 200 derece fırında üzerleri altın sarısı kızarana kadar pişirin."
+    ]
+  },
+  {
+    "id": 27,
+    "ad": "Soslu Sosisli / Kıymalı Makarna",
+    "ogun": ["ogle", "aksam", "fastfood"],
+    "kisi_sayisi": "3 Kişilik",
+    "hazirlik_suresi": "5 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "20 dk",
+    "kalori": 450,
+    "protein": "16g",
+    "karbonhidrat": "52g",
+    "malzemeler": ["Makarna", "Sosis", "Kıyma", "Salça", "Sarımsak", "Tereyağı"],
+    "hazirlanis": [
+      "1. Adım (8 dk): Makarnayı haşlayıp suyundan bir kepçe ayırarak süzün.",
+      "2. Adım (5 dk): Ayrı bir tavada tereyağında sosis veya kıymayı sarımsak ve salçayla kavurun.",
+      "3. Adım (2 dk): Ayırdığınız makarna suyu ile sosu açıp makarnayla harmanlayın."
+    ]
+  },
+  {
+    "id": 28,
+    "ad": "Hünkar Beğendi",
+    "ogun": ["aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "20 dk",
+    "pisirme_suresi": "40 dk",
+    "sure": "60 dk",
+    "kalori": 420,
+    "protein": "24g",
+    "karbonhidrat": "20g",
+    "malzemeler": ["Kuşbaşı Et", "Patlıcan", "Tereyağı", "Un", "Süt", "Kaşar Peyniri"],
+    "hazirlanis": [
+      "1. Adım (25 dk): Kuşbaşı etleri kendi suyunda yumuşayana kadar kısık ateşte pişirin.",
+      "2. Adım (10 dk): Közlenmiş patlıcanları incecik kıyın. Tereyağında unu kavurup süt, patlıcan ve kaşar ekleyip beğendiyi hazırlayın.",
+      "3. Adım (5 dk): Servis tabağına beğendiyi yayın, üzerine sıcak eti koyarak servis edin."
+    ]
+  },
+  {
+    "id": 29,
+    "ad": "Zeytinyağlı Enginar",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "25 dk",
+    "sure": "35 dk",
+    "kalori": 180,
+    "protein": "3g",
+    "karbonhidrat": "22g",
+    "malzemeler": ["Havuç", "Patates", "Soğan", "Zeytinyağı"],
+    "hazirlanis": [
+      "1. Adım (5 dk): Küp doğranmış patates, havuç ve soğanı zeytinyağında soteleyin.",
+      "2. Adım (5 dk): Enginar çanaklarının üzerine hazırladığınız garnitürü paylaştırın.",
+      "3. Adım (20 dk): Limonlu, şekerli zeytinyağlı su ekleyip tencerenin kapağı kapalı olarak enginarlar yumuşayana kadar pişirin."
+    ]
+  },
+  {
+    "id": 30,
+    "ad": "Tavuklu Çökertme Kebabı",
+    "ogun": ["aksam"],
+    "kisi_sayisi": "3 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "20 dk",
+    "sure": "35 dk",
+    "kalori": 540,
+    "protein": "30g",
+    "karbonhidrat": "45g",
+    "malzemeler": ["Tavuk", "Patates", "Yoğurt", "Sarımsak", "Salça", "Tereyağı"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Patatesleri kibrit çöpü inceliğinde doğrayıp bol yağda çıtır kızartın.",
+      "2. Adım (8 dk): Jülyen doğranmış tavukları yüksek ateşte suyunu çekene kadar soteleyin.",
+      "3. Adım (2 dk): Servis tabağına çıtır patatesleri dizin, üzerine sarımsaklı yoğurt, tavuklar ve tereyağlı salçalı sos gezdirin."
+    ]
+  },
+  {
+    "id": 31,
+    "ad": "Fırında Kaşarlı Mantar",
+    "ogun": ["kahvalti", "ogle", "aksam"],
+    "kisi_sayisi": "2 Kişilik",
+    "hazirlik_suresi": "5 dk",
+    "pisirme_suresi": "10 dk",
+    "sure": "15 dk",
+    "kalori": 210,
+    "protein": "10g",
+    "karbonhidrat": "5g",
+    "malzemeler": ["Mantar", "Kaşar Peyniri", "Tereyağı"],
+    "hazirlanis": [
+      "1. Adım (3 dk): Mantarların saplarını ayırıp silin ve fırın tepsisine dizin.",
+      "2. Adım (2 dk): Ortalarına küçük birer parça tereyağı yerleştirin.",
+      "3. Adım (10 dk): Üzerlerine bol rendelenmiş kaşar koyup 200 derece fırında kaşarlar eriyip kızarana kadar pişirin."
+    ]
+  },
+  {
+    "id": 32,
+    "ad": "Lavaş Tost (TikTok Trendi)",
+    "ogun": ["kahvalti", "ogle", "fastfood"],
+    "kisi_sayisi": "1 Kişilik",
+    "hazirlik_suresi": "3 dk",
+    "pisirme_suresi": "7 dk",
+    "sure": "10 dk",
+    "kalori": 390,
+    "protein": "15g",
+    "karbonhidrat": "35g",
+    "malzemeler": ["Yufka", "Kaşar Peyniri", "Sucuk", "Yumurta", "Tereyağı"],
+    "hazirlanis": [
+      "1. Adım (2 dk): Lavaşın bir kenarından ortasına kadar bıçakla kesin.",
+      "2. Adım (3 dk): Dört çeyrek parçaya pişmiş yumurta, kaşar ve sucuk koyup üçgen şeklinde üst üste katlayın.",
+      "3. Adım (2 dk): Tereyağı sürdüğünüz tost makinesinde kaşarlar eriyip dışı çıtırlaşana kadar basın."
+    ]
+  },
+  {
+    "id": 33,
+    "ad": "Kayseri Yağlaması",
+    "ogun": ["aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "20 dk",
+    "pisirme_suresi": "25 dk",
+    "sure": "45 dk",
+    "kalori": 490,
+    "protein": "22g",
+    "karbonhidrat": "50g",
+    "malzemeler": ["Kıyma", "Soğan", "Biber", "Domates", "Salça", "Yoğurt", "Sarımsak", "Yufka"],
+    "hazirlanis": [
+      "1. Adım (15 dk): Kıyma, ince doğranmış soğan, biber, domates ve salçayı sulu kıvamda kalacak şekilde soteleyin.",
+      "2. Adım (8 dk): Şebit veya lavaşların üzerine sırasıyla sıcak kıymalı harçtan sürerek kat kat dizin.",
+      "3. Adım (2 dk): En üstüne bol sarımsaklı yoğurt dökerek dilimleyip servis edin."
+    ]
+  },
+  {
+    "id": 34,
+    "ad": "Mercimek Köftesi",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "6 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "30 dk",
+    "kalori": 190,
+    "protein": "8g",
+    "karbonhidrat": "30g",
+    "malzemeler": ["Mercimek", "Bulgur", "Soğan", "Salça", "Sıvı Yağ", "Dereotu"],
+    "hazirlanis": [
+      "1. Adım (12 dk): Kırmızı mercimeği suyla haşlayın, suyunu çekmeye yakın ince bulguru ekleyip kapağını kapatıp demlendirin.",
+      "2. Adım (5 dk): İnce doğranmış soğanları bol sıvı yağda salçayla birlikte kavurup karışıma dökün.",
+      "3. Adım (13 dk): İnce kıyılmış dereotu ve baharatları ekleyip ılıkken yoğurun ve avucunuzda şekillendirin."
+    ]
+  },
+  {
+    "id": 35,
+    "ad": "Zeytinyağlı Yaprak Sarması",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "6 Kişilik",
+    "hazirlik_suresi": "30 dk",
+    "pisirme_suresi": "30 dk",
+    "sure": "60 dk",
+    "kalori": 170,
+    "protein": "3g",
+    "karbonhidrat": "22g",
+    "malzemeler": ["Pirinç", "Soğan", "Zeytinyağı", "Salça", "Dereotu"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Bol piyazlık soğanı zeytinyağında kavurup pirinç, baharatlar ve dereotunu ekleyip demlendirin.",
+      "2. Adım (20 dk): Suda bekletilmiş yaprakların içine harçtan koyup kalem gibi sıkıca sarın.",
+      "3. Adım (30 dk): Tencereye dizip üzerine limon dilimleri ve zeytinyağlı su gezdirerek kısık ateşte pişirin."
+    ]
+  },
+  {
+    "id": 36,
+    "ad": "Soslu Fırın Kanat",
+    "ogun": ["aksam", "fastfood"],
+    "kisi_sayisi": "3 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "30 dk",
+    "sure": "40 dk",
+    "kalori": 390,
+    "protein": "25g",
+    "karbonhidrat": "6g",
+    "malzemeler": ["Tavuk", "Yoğurt", "Salça", "Sarımsak", "Sıvı Yağ"],
+    "hazirlanis": [
+      "1. Adım (5 dk): Yoğurt, salça, ezilmiş sarımsak, baharatlar ve sıvı yağ ile sos hazırlayın.",
+      "2. Adım (5 dk): Tavuk kanatlarını sosla harmanlayıp vaktiniz varsa dolapta dinlendirin.",
+      "3. Adım (30 dk): Yağlı kağıt serili tepside 200 derece fırında üzerleri nar gibi kızarana kadar pişirin."
+    ]
+  },
+  {
+    "id": 37,
+    "ad": "Kıymalı Biber Dolması",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "30 dk",
+    "sure": "45 dk",
+    "kalori": 260,
+    "protein": "11g",
+    "karbonhidrat": "25g",
+    "malzemeler": ["Biber", "Kıyma", "Pirinç", "Soğan", "Domates", "Salça"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Kıyma, pirinç, doğranmış soğan, salça ve baharatları karıştırarak iç harcı yoğurun.",
+      "2. Adım (5 dk): Dolmalık biberlerin içini doldurup kapak olarak domates dilimleri kapatın.",
+      "3. Adım (30 dk): Tencereye dizip salçalı sıcak su ilave ederek pirinçler yumuşayana kadar pişirin."
+    ]
+  },
+  {
+    "id": 38,
+    "ad": "Fırında Sütlaç",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "6 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "25 dk",
+    "sure": "40 dk",
+    "kalori": 230,
+    "protein": "6g",
+    "karbonhidrat": "38g",
+    "malzemeler": ["Süt", "Pirinç", "Un", "Yumurta"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Pirinci az suda haşlayın, üzerine süt ve şekeri ekleyip kaynamaya bırakın.",
+      "2. Adım (5 dk): Nişasta/un ve yumurta sarısını az suyla çırpıp sütlaca ekleyip koyulaşana kadar pişirin.",
+      "3. Adım (25 dk): Güveç kaplarına paylaştırıp tepsiye su koyarak fırının üst ızgarasında üzeri yanana kadar pişirin."
+    ]
+  },
+  {
+    "id": 39,
+    "ad": "San Sebastian Cheesecake",
+    "ogun": ["kahvalti", "ogle"],
+    "kisi_sayisi": "8 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "30 dk",
+    "sure": "45 dk",
+    "kalori": 410,
+    "protein": "8g",
+    "karbonhidrat": "29g",
+    "malzemeler": ["Krema", "Yumurta", "Un", "Beyaz Peynir", "Labne"],
+    "hazirlanis": [
+      "1. Adım (7 dk): Labne, krem peynir ve şekeri pürüzsüz kremamsı bir kıvam alana kadar çırpın.",
+      "2. Adım (5 dk): Yumurtaları teker teker ekleyip karıştırın, en son sıvı krema ve unu ilave edin.",
+      "3. Adım (30 dk): Kelepçeli kalıba döküp önceden ısıtılmış 230 derece fırında üzeri yanık karamel olana kadar pişirin."
+    ]
+  },
+  {
+    "id": 40,
+    "ad": "Köfteli Patlıcan Dizme",
+    "ogun": ["aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "20 dk",
+    "pisirme_suresi": "30 dk",
+    "sure": "50 dk",
+    "kalori": 290,
+    "protein": "16g",
+    "karbonhidrat": "14g",
+    "malzemeler": ["Kıyma", "Patlıcan", "Soğan", "Domates", "Biber", "Salça"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Kıyma, soğan ve baharatlarla köfte harcını yoğurup ceviz büyüklüğünde yassı köfteler yapın.",
+      "2. Adım (10 dk): Yuvarlak doğranmış patlıcan ve köfteleri fırın tepsisine sırayla diklemesine dizin.",
+      "3. Adım (30 dk): Üzerine salçalı sıcak su gezdirip biber ve domatesle süsleyerek fırında pişirin."
+    ]
+  },
+  {
+    "id": 41,
+    "ad": "Sarımsaklı & Tereyağlı Çıtır Ekmek",
+    "ogun": ["kahvalti", "ogle", "fastfood"],
+    "kisi_sayisi": "3 Kişilik",
+    "hazirlik_suresi": "5 dk",
+    "pisirme_suresi": "10 dk",
+    "sure": "15 dk",
+    "kalori": 320,
+    "protein": "9g",
+    "karbonhidrat": "30g",
+    "malzemeler": ["Ekmek", "Sarımsak", "Tereyağı", "Kaşar Peyniri", "Dereotu"],
+    "hazirlanis": [
+      "1. Adım (3 dk): Yumuşak tereyağına ezilmiş sarımsak ve ince kıyılmış dereotu ekleyip karıştırın.",
+      "2. Adım (2 dk): Dilimlenmiş ekmeklerin üzerine bu karışımı sürün ve üzerlerine kaşar peyniri dizin.",
+      "3. Adım (10 dk): Fırında kaşarlar eriyip ekmeklerin kenarları çıtırlaşana kadar fırınlayın."
+    ]
+  },
+  {
+    "id": 42,
+    "ad": "Tavuklu Pilav (Sokak Pilavcısı Usulü)",
+    "ogun": ["ogle", "aksam", "fastfood"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "20 dk",
+    "sure": "30 dk",
+    "kalori": 360,
+    "protein": "20g",
+    "karbonhidrat": "42g",
+    "malzemeler": ["Tavuk", "Pirinç", "Tereyağı", "Sıvı Yağ"],
+    "hazirlanis": [
+      "1. Adım (12 dk): Tavuk göğsünü haşlayıp suyu süzün ve eti tel tel didikleyin.",
+      "2. Adım (13 dk): Ayırdığınız tavuk suyuyla tane tane tereyağlı pirinç pilavı pişirin.",
+      "3. Adım (5 dk): Tabağa pilavı alın, üzerine bol Didiklenmiş tavuk koyup bol karabiber serpin."
+    ]
+  },
+  {
+    "id": 43,
+    "ad": "Fırında Beşamel Soslu Kıymalı Karnabahar",
+    "ogun": ["aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "25 dk",
+    "sure": "40 dk",
+    "kalori": 280,
+    "protein": "17g",
+    "karbonhidrat": "15g",
+    "malzemeler": ["Karnabahar", "Kıyma", "Un", "Süt", "Tereyağı", "Kaşar Peyniri"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Karnabaharları çiçeklerine ayırıp diriliği geçene kadar haşlayın ve borcama alın.",
+      "2. Adım (5 dk): Tavada kıyma ve soğanı kavurun. Ayrı yerde un, süt ve tereyağından beşamel sos yapın.",
+      "3. Adım (25 dk): Karnabaharın üzerine kıymayı ve beşamel sosu dökün, kaşar rendesiyle fırında kızartın."
+    ]
+  },
+  {
+    "id": 44,
+    "ad": "Kıymalı Makarna Fırın",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "20 dk",
+    "sure": "35 dk",
+    "kalori": 480,
+    "protein": "21g",
+    "karbonhidrat": "55g",
+    "malzemeler": ["Makarna", "Kıyma", "Un", "Süt", "Tereyağı", "Kaşar Peyniri", "Salça"],
+    "hazirlanis": [
+      "1. Adım (8 dk): Makarnayı haşlayın, tavada kıyma ve salçayla kavrulmuş harç hazırlayın.",
+      "2. Adım (7 dk): Un, süt ve tereyağı ile beşamel sosu hazırlayıp makarnayla birleştirin.",
+      "3. Adım (20 dk): Borcama aktarıp ortasına kıymayı yayın, en üste kaşar koyup fırında kızartın."
+    ]
+  },
+  {
+    "id": 45,
+    "ad": "Peynirli Maydanozlu Pişi",
+    "ogun": ["kahvalti"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "10 dk",
+    "sure": "20 dk",
+    "kalori": 340,
+    "protein": "10g",
+    "karbonhidrat": "40g",
+    "malzemeler": ["Un", "Yoğurt", "Yumurta", "Beyaz Peynir", "Sıvı Yağ"],
+    "hazirlanis": [
+      "1. Adım (7 dk): Un, yoğurt, yumurta ve ufalanmış peyniri yoğurarak ele yapışmayan bir hamur yapın.",
+      "2. Adım (3 dk): Tezgahta açıp merdaneyle kare parçalar halinde kesin.",
+      "3. Adım (10 dk): Kızgın derin yağda arkalı önlü puf gibi kabarana kadar kızartın."
+    ]
+  },
+  {
+    "id": 46,
+    "ad": "Patatesli Yumurta",
+    "ogun": ["kahvalti"],
+    "kisi_sayisi": "2 Kişilik",
+    "hazirlik_suresi": "5 dk",
+    "pisirme_suresi": "10 dk",
+    "sure": "15 dk",
+    "kalori": 310,
+    "protein": "12g",
+    "karbonhidrat": "28g",
+    "malzemeler": ["Patates", "Yumurta", "Tereyağı", "Sıvı Yağ"],
+    "hazirlanis": [
+      "1. Adım (5 dk): Küp kesilmiş patatesleri sıvı yağda kızarana kadar pişirin.",
+      "2. Adım (2 dk): Tavadaki fazla yağı süzüp lezzet vermesi için tereyağını ekleyin.",
+      "3. Adım (3 dk): Çırpılmış ve baharatlanmış yumurtaları patateslerin üzerine döküp kapağı kapalı pişirin."
+    ]
+  },
+  {
+    "id": 47,
+    "ad": "Mantar Sote",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "3 Kişilik",
+    "hazirlik_suresi": "5 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "20 dk",
+    "kalori": 140,
+    "protein": "5g",
+    "karbonhidrat": "10g",
+    "malzemeler": ["Mantar", "Soğan", "Biber", "Domates", "Tereyağı", "Sarımsak"],
+    "hazirlanis": [
+      "1. Adım (7 dk): Mantarları yüksek ateşte suyunu salıp çekene kadar tavada soteleyin.",
+      "2. Adım (5 dk): Tereyağı, doğranmış soğan, sarımsak ve biberleri ekleyip yumuşayana kadar kavurun.",
+      "3. Adım (3 dk): Doğranmış domatesleri ekleyip kısık ateşte domatesler suyunu salana kadar pişirin."
+    ]
+  },
+  {
+    "id": 48,
+    "ad": "Ev Yapımı Burger",
+    "ogun": ["ogle", "aksam", "fastfood"],
+    "kisi_sayisi": "2 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "25 dk",
+    "kalori": 580,
+    "protein": "29g",
+    "karbonhidrat": "45g",
+    "malzemeler": ["Kıyma", "Ekmek", "Kaşar Peyniri", "Soğan", "Domates", "Mayonez", "Ketçap"],
+    "hazirlanis": [
+      "1. Adım (5 dk): Tuz ve karabiberle yoğrulmuş kıymaya kalın köfte şekli verip döküm tavada pişirin.",
+      "2. Adım (5 dk): Pişmeye yakın köftenin üzerine kaşar/cheddar koyup tavanın kapağını kapatıp eritin.",
+      "3. Adım (5 dk): Kızartılmış ekmeğe sosları sürün; köfte, karamelize soğan ve domatesle birleştirin."
+    ]
+  },
+  {
+    "id": 49,
+    "ad": "Fırında Sebzeli Tavuk Pirzola",
+    "ogun": ["aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "30 dk",
+    "sure": "45 dk",
+    "kalori": 360,
+    "protein": "26g",
+    "karbonhidrat": "22g",
+    "malzemeler": ["Tavuk", "Patates", "Havuç", "Sarımsak", "Salça", "Zeytinyağı"],
+    "hazirlanis": [
+      "1. Adım (8 dk): Tavuk pirzolaları, elma dilim patates ve havuçları tepsiye dizin.",
+      "2. Adım (7 dk): Salça, ezilmiş sarımsak, zeytinyağı ve baharatlı sos yapıp sebze ve tavuklara sürün.",
+      "3. Adım (30 dk): Önceden ısıtılmış 200 derece fırında sebzeler yumuşayıp tavuklar kızarana kadar pişirin."
+    ]
+  },
+  {
+    "id": 50,
+    "ad": "Fırında Kaşarlı Patates",
+    "ogun": ["kahvalti", "ogle"],
+    "kisi_sayisi": "3 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "20 dk",
+    "sure": "30 dk",
+    "kalori": 310,
+    "protein": "11g",
+    "karbonhidrat": "32g",
+    "malzemeler": ["Patates", "Kaşar Peyniri", "Tereyağı", "Sıvı Yağ"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Patatesleri haşlayıp kabuklarını soyun ve fırın kabında ezin.",
+      "2. Adım (5 dk): İçine erimiş tereyağı, tuz ve rendelenmiş kaşarın yarısını ekleyip karıştırın.",
+      "3. Adım (15 dk): Üzerine kalan kaşar peynirini döküp fırında nar gibi kızarana kadar pişirin."
+    ]
+  },
+  {
+    "id": 51,
+    "ad": "Şakşuka",
+    "ogun": ["kahvalti", "ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "20 dk",
+    "sure": "30 dk",
+    "kalori": 210,
+    "protein": "3g",
+    "karbonhidrat": "16g",
+    "malzemeler": ["Patlıcan", "Biber", "Domates", "Sarımsak", "Sıvı Yağ", "Salça"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Küp doğranmış patlıcanları ve biberleri bol kızgın sıvı yağda kızartıp havlu kağıt üzerine alın.",
+      "2. Adım (7 dk): Rendelenmiş domates, ezilmiş sarımsak ve az miktarda salçayı tavada sos kıvamına gelene kadar pişirin.",
+      "3. Adım (3 dk): Kızaran sebzeleri servis tabağına alıp üzerine hazırladığınız domates sosunu gezdirin."
+    ]
+  },
+  {
+    "id": 52,
+    "ad": "Kıymalı Pide (Ev Yapımı)",
+    "ogun": ["ogle", "aksam", "fastfood"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "20 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "35 dk",
+    "kalori": 440,
+    "protein": "21g",
+    "karbonhidrat": "50g",
+    "malzemeler": ["Un", "Kıyma", "Soğan", "Biber", "Domates", "Salça", "Sıvı Yağ"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Kıyma, ince kıyılmış soğan, biber, domates ve salçayı çiğden karıştırarak iç harcı hazırlayın.",
+      "2. Adım (10 dk): Maya ile yoğrulup dinlendirilmiş hamuru oval şeklinde açıp ortasına iç harcı yayın ve kenarlarını kapatın.",
+      "3. Adım (15 dk): Önceden ısıtılmış 220 derece fırında kenarları altın sarısı kızarana kadar pişirip tereyağı sürerek servis edin."
+    ]
+  },
+  {
+    "id": 53,
+    "ad": "Tavuklu Çorba (Şehriyeli)",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "25 dk",
+    "kalori": 160,
+    "protein": "13g",
+    "karbonhidrat": "15g",
+    "malzemeler": ["Tavuk", "Tereyağı", "Maydanoz", "Sarımsak", "Limon"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Haşlanmış tavuk göğsünü tel tel didikleyin.",
+      "2. Adım (10 dk): Tavuk suyuna tel şehriyeleri atıp yumuşayana kadar pişirin.",
+      "3. Adım (5 dk): Didiklenmiş tavukları, sarımsaklı limonlu terbiyeyi ekleyip 5 dakika kaynattıktan sonra kıyılmış maydanozla servis yapın."
+    ]
+  },
+  {
+    "id": 54,
+    "ad": "Fırında Levrek / Çupra",
+    "ogun": ["aksam"],
+    "kisi_sayisi": "2 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "25 dk",
+    "sure": "35 dk",
+    "kalori": 280,
+    "protein": "34g",
+    "karbonhidrat": "4g",
+    "malzemeler": ["Soğan", "Sarımsak", "Zeytinyağı", "Limon"],
+    "hazirlanis": [
+      "1. Adım (5 dk): Temizlenmiş balıkları zeytinyağı, tuz ve karabiber ile marine edin.",
+      "2. Adım (5 dk): Yağlı kağıt serili tepsiye halka doğranmış soğan ve limon dilimlerini dizip üzerine balıkları yerleştirin.",
+      "3. Adım (25 dk): Önceden ısıtılmış 200 derece fırında balıklar yumuşayıp üzeri hafif kızarana kadar pişirin."
+    ]
+  },
+  {
+    "id": 55,
+    "ad": "Kaşarlı Mantarlı Omlet",
+    "ogun": ["kahvalti"],
+    "kisi_sayisi": "1 Kişilik",
+    "hazirlik_suresi": "3 dk",
+    "pisirme_suresi": "7 dk",
+    "sure": "10 dk",
+    "kalori": 290,
+    "protein": "16g",
+    "karbonhidrat": "3g",
+    "malzemeler": ["Yumurta", "Mantar", "Kaşar Peyniri", "Tereyağı"],
+    "hazirlanis": [
+      "1. Adım (4 dk): İnce dilimlenmiş mantarları tereyağında suyunu çekene kadar soteleyin.",
+      "2. Adım (2 dk): Çırpılmış yumurtaları mantarların üzerine döküp kısık ateşte pişmeye bırakın.",
+      "3. Adım (1 dk): Yumurta hafif akışkanken üzerine rendelenmiş kaşar döküp ikiye katlayarak servis yapın."
+    ]
+  },
+  {
+    "id": 56,
+    "ad": "Yalancı Yalova Sütlüsü / Güllaç",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "6 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "10 dk",
+    "sure": "25 dk",
+    "kalori": 260,
+    "protein": "7g",
+    "karbonhidrat": "42g",
+    "malzemeler": ["Süt", "Un", "Tereyağı"],
+    "hazirlanis": [
+      "1. Adım (5 dk): Sütü ılık hale getirip şeker ile eriyene kadar karıştırın.",
+      "2. Adım (10 dk): Güllaç yapraklarını tek tek ılık sütle ıslatarak tepsiye kat kat dizin.",
+      "3. Adım (10 dk): Orta katına ceviz içi serpip kalan yaprakları ıslatarak tamamlayın, buzdolabında soğutup servis edin."
+    ]
+  },
+  {
+    "id": 57,
+    "ad": "Fırında Makarna (Beşamel Soslu)",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "25 dk",
+    "sure": "40 dk",
+    "kalori": 470,
+    "protein": "18g",
+    "karbonhidrat": "54g",
+    "malzemeler": ["Makarna", "Un", "Süt", "Tereyağı", "Kaşar Peyniri", "Beyaz Peynir"],
+    "hazirlanis": [
+      "1. Adım (8 dk): Fırın makarnayı bol tuzlu suda haşlayıp süzün.",
+      "2. Adım (7 dk): Un ve tereyağını kavurup süt ekleyerek beşamel sosu hazırlayın; peynirler ile makarnayı sosla harmanlayın.",
+      "3. Adım (25 dk): Borcama döküp üzerine bol kaşar rendesi serperek 190 derece fırında üzeri nar gibi kızarana kadar pişirin."
+    ]
+  },
+  {
+    "id": 58,
+    "ad": "Kayseri Mantısı",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "30 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "45 dk",
+    "kalori": 460,
+    "protein": "20g",
+    "karbonhidrat": "58g",
+    "malzemeler": ["Un", "Kıyma", "Soğan", "Yoğurt", "Sarımsak"],
+    "hazirlanis": [
+      "1. Adım (20 dk): Un, su ve tuz ile sert bir hamur yoğurup küçük kareler şeklinde keserek içine kıymalı harç koyup kapatın.",
+      "2. Adım (10 dk): Mantarları kaynayan tuzlu suda yumuşayana kadar haşlayıp süzün.",
+      "3. Adım (5 dk): Üzerine sarımsaklı yoğurt ve kızdırılmış salçalı tereyağı sosu dökerek sıcak servis yapın."
+    ]
+  },
+  {
+    "id": 59,
+    "ad": "Izgara Köfte",
+    "ogun": ["ogle", "aksam", "fastfood"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "10 dk",
+    "sure": "25 dk",
+    "kalori": 380,
+    "protein": "25g",
+    "karbonhidrat": "6g",
+    "malzemeler": ["Kıyma", "Soğan", "Sarımsak", "Ekmek", "Sıvı Yağ"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Kıymayı rendelenmiş soğan, ezilmiş sarımsak, ıslatılmış ekmek içi ve baharatlarla iyice yoğurup şekil verin.",
+      "2. Adım (3 dk): Döküm tavayı veya ızgarayı hafifçe yağlayıp ısıtın.",
+      "3. Adım (7 dk): Köfteleri yüksek ateşte önlü arkalı sululuğunu kaybetmeyecek şekilde pişirin."
+    ]
+  },
+  {
+    "id": 60,
+    "ad": "Ali Nazik Kebabı",
+    "ogun": ["aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "20 dk",
+    "pisirme_suresi": "25 dk",
+    "sure": "45 dk",
+    "kalori": 410,
+    "protein": "26g",
+    "karbonhidrat": "14g",
+    "malzemeler": ["Kuşbaşı Et", "Patlıcan", "Yoğurt", "Sarımsak", "Tereyağı", "Salça"],
+    "hazirlanis": [
+      "1. Adım (15 dk): Patlıcanları közleyip kabuklarını soyun ve incecik kıyın; sarımsaklı yoğurtla karıştırıp ılık beğendiyi hazırlayın.",
+      "2. Adım (8 dk): Kuşbaşı etleri tereyağında salça ve baharatlarla suyunu çekene kadar yumuşayana dek kavurun.",
+      "3. Adım (2 dk): Servis tabağına yoğurtlu patlıcanı yayın, üzerine sıcak etleri dökerek servis edin."
+    ]
+  },
+  {
+    "id": 61,
+    "ad": "Tas Kebabı",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "40 dk",
+    "sure": "55 dk",
+    "kalori": 340,
+    "protein": "24g",
+    "karbonhidrat": "12g",
+    "malzemeler": ["Kuşbaşı Et", "Patates", "Havuç", "Soğan", "Salça", "Tereyağı"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Kuşbaşı etleri ve yemeklik doğranmış soğanları tereyağında mühürleyip kavurun.",
+      "2. Adım (5 dk): Salça, küp doğranmış patates ve havuçları ekleyip birkaç dakika soteleyin.",
+      "3. Adım (40 dk): Üzerine sıcak su ekleyip kapağı kapalı şekilde etler ve sebzeler lokum gibi yumuşayana kadar pişirin."
+    ]
+  },
+  {
+    "id": 62,
+    "ad": "Arnavut Ciğeri",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "10 dk",
+    "sure": "25 dk",
+    "kalori": 310,
+    "protein": "28g",
+    "karbonhidrat": "18g",
+    "malzemeler": ["Un", "Sıvı Yağ", "Soğan", "Patates"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Zar şeklinde doğranmış ciğerlerin zarlarını temizleyip un ve baharat karışımına bulayın.",
+      "2. Adım (5 dk): Patatesleri küp doğrayıp kızartın; ardından ciğerleri kızgın ve bol yağda kısa süre (2-3 dk) pişirin.",
+      "3. Adım (2 dk): Pişen ciğerleri patateslerle harmanlayıp sumaklı piyaz soğan ile sıcak servis yapın."
+    ]
+  },
+  {
+    "id": 63,
+    "ad": "Kuru Patlıcan Dolması",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "6 Kişilik",
+    "hazirlik_suresi": "25 dk",
+    "pisirme_suresi": "45 dk",
+    "sure": "70 dk",
+    "kalori": 240,
+    "protein": "6g",
+    "karbonhidrat": "32g",
+    "malzemeler": ["Kıyma", "Pirinç", "Soğan", "Salça", "Zeytinyağı", "Sarımsak"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Kurutulmuş patlıcanları sıcak suda hafif yumuşayana kadar haşlayıp süzün.",
+      "2. Adım (10 dk): Kıyma, pirinç, bol soğan, salça, sarımsak ve zeytinyağı ile iç harcı hazırlayın.",
+      "3. Adım (45 dk): Patlıcanların üçte ikisini doldurup tencereye dizin, salçalı su ekleyip kısık ateşte pişirin."
+    ]
+  },
+  {
+    "id": 64,
+    "ad": "Lahmacun (Ev Usulü)",
+    "ogun": ["ogle", "aksam", "fastfood"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "20 dk",
+    "pisirme_suresi": "10 dk",
+    "sure": "30 dk",
+    "kalori": 350,
+    "protein": "16g",
+    "karbonhidrat": "42g",
+    "malzemeler": ["Un", "Kıyma", "Soğan", "Biber", "Domates", "Salça", "Sarımsak"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Kıyma, robottan geçirilmiş bol domates, biber, soğan, sarımsak ve salçayla harcı hazırlayın.",
+      "2. Adım (10 dk): Mayalı hamurdan ceviz büyüklüğünde bezeler koparıp incecik yuvarlak açın.",
+      "3. Adım (10 dk): Üzerine harçtan ince bir tabaka yayıp önceden ısıtılmış en yüksek dereceli fırında veya tavada pişirin."
+    ]
+  },
+  {
+    "id": 65,
+    "ad": "Fırında Mücver",
+    "ogun": ["kahvalti", "ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "25 dk",
+    "sure": "40 dk",
+    "kalori": 180,
+    "protein": "7g",
+    "karbonhidrat": "15g",
+    "malzemeler": ["Kabak", "Yumurta", "Un", "Beyaz Peynir", "Dereotu", "Zeytinyağı"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Kabakları rendeleyip suyunu iyice sıkın; yumurta, un, ufalanmış peynir, dereotu ve zeytinyağı ile karıştırın.",
+      "2. Adım (5 dk): Yağlanmış borcama veya muffin kalıplarına harcı eşit şekilde dökün.",
+      "3. Adım (25 dk): 180 derece fırında üzerleri kızarıp içi çekene kadar fırınlayın."
+    ]
+  },
+  {
+    "id": 66,
+    "ad": "Tavuklu Sehriye Pilavı",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "20 dk",
+    "sure": "30 dk",
+    "kalori": 310,
+    "protein": "15g",
+    "karbonhidrat": "38g",
+    "malzemeler": ["Tavuk", "Pirinç", "Tereyağı", "Sıvı Yağ"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Tavuk göğsünü haşlayıp didikleyin ve suyunu pilav için ayırın.",
+      "2. Adım (5 dk): Şehriye ve pirinci tereyağı ile sıvı yağda kavurun.",
+      "3. Adım (15 dk): Tavuk suyu ve didiklenmiş tavuk etlerini ekleyip kısık ateşte demlendirerek pişirin."
+    ]
+  },
+  {
+    "id": 67,
+    "ad": "Fırında Kiymali Patates Puresi",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "20 dk",
+    "sure": "35 dk",
+    "kalori": 360,
+    "protein": "16g",
+    "karbonhidrat": "30g",
+    "malzemeler": ["Patates", "Kıyma", "Süt", "Tereyağı", "Kaşar Peyniri", "Soğan"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Haşlanan patatesleri süt, tereyağı ve tuzla ezerek püre haline getirin.",
+      "2. Adım (5 dk): Ayrı tavada kıymayı soğan ve salçayla kavurarak harç yapın.",
+      "3. Adım (20 dk): Borcama önce kıymayı, üzerine püreyi yayıp kaşar serperek fırında kızartın."
+    ]
+  },
+  {
+    "id": 68,
+    "ad": "Karnabahar Kızartması (Soslu)",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "20 dk",
+    "sure": "35 dk",
+    "kalori": 220,
+    "protein": "6g",
+    "karbonhidrat": "18g",
+    "malzemeler": ["Karnabahar", "Yumurta", "Un", "Yoğurt", "Sıvı Yağ"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Karnabahar çiçeklerini hafif diri kalacak şekilde haşlayıp süzün.",
+      "2. Adım (5 dk): Yumurta, yoğurt, un ve baharatlarla akışkan bir batırma sosu hazırlayın.",
+      "3. Adım (20 dk): Karnabaharları sosa bulayıp kızgın sıvı yağda altın sarısı olana kadar kızartın."
+    ]
+  },
+  {
+    "id": 69,
+    "ad": "Zeytinyağlı Barbunya",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "35 dk",
+    "sure": "45 dk",
+    "kalori": 210,
+    "protein": "8g",
+    "karbonhidrat": "28g",
+    "malzemeler": ["Havuç", "Patates", "Soğan", "Sarımsak", "Zeytinyağı", "Domates"],
+    "hazirlanis": [
+      "1. Adım (5 dk): Doğranmış soğan, sarımsak, küp havuç ve patatesleri zeytinyağında soteleyin.",
+      "2. Adım (5 dk): Ayıklanmış barbunyaları ve rendelenmiş domatesi ekleyip birkaç dakika çevirin.",
+      "3. Adım (35 dk): Sıcak su, şeker ve tuz ilave ederek kısıntı ateşte barbunyalar yumuşayana kadar pişirin."
+    ]
+  },
+  {
+    "id": 70,
+    "ad": "Fırında Mücver Patatesli",
+    "ogun": ["kahvalti", "ogle"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "25 dk",
+    "sure": "40 dk",
+    "kalori": 230,
+    "protein": "7g",
+    "karbonhidrat": "26g",
+    "malzemeler": ["Patates", "Yumurta", "Un", "Beyaz Peynir", "Dereotu", "Zeytinyağı"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Patatesleri rendeleyip suyunu iyice sıkın.",
+      "2. Adım (5 dk): Yumurta, un, ufalanmış peynir, dereotu ve zeytinyağı ile harmanlayın.",
+      "3. Adım (25 dk): Fırın tepsisine veya muffin kalıplarına döküp 180 derecede kızarana kadar pişirin."
+    ]
+  },
+  {
+    "id": 71,
+    "ad": "Kremalı Mantarlı Tavuk",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "3 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "20 dk",
+    "sure": "30 dk",
+    "kalori": 380,
+    "protein": "31g",
+    "karbonhidrat": "6g",
+    "malzemeler": ["Tavuk", "Mantar", "Krema", "Sarımsak", "Tereyağı"],
+    "hazirlanis": [
+      "1. Adım (8 dk): Küp doğranmış tavukları ve mantarları yüksek ateşte suyunu çekene kadar soteleyin.",
+      "2. Adım (5 dk): Tereyağı ve ezilmiş sarımsağı ekleyip lezzetlendirin.",
+      "3. Adım (7 dk): Kremayı ilave edip sos kıvam alana kadar kısık ateşte 5 dakika kaynatın."
+    ]
+  },
+  {
+    "id": 72,
+    "ad": "Patates Kroket",
+    "ogun": ["kahvalti", "ogle", "fastfood"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "20 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "35 dk",
+    "kalori": 290,
+    "protein": "6g",
+    "karbonhidrat": "38g",
+    "malzemeler": ["Patates", "Kaşar Peyniri", "Yumurta", "Un", "Sıvı Yağ"],
+    "hazirlanis": [
+      "1. Adım (15 dk): Haşlanmış patatesleri ezip kaşar rendesi ve baharatlarla yoğurun, silindir şekli verin.",
+      "2. Adım (5 dk): Kroketleri sırasıyla un, çırpılmış yumurta ve galeta ununa bulayın.",
+      "3. Adım (15 dk): Kızgın sıvı yağda her yeri altın sarısı olana kadar kızartın."
+    ]
+  },
+  {
+    "id": 73,
+    "ad": "Ev Yapımı Lahmacun",
+    "ogun": ["ogle", "aksam", "fastfood"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "20 dk",
+    "pisirme_suresi": "10 dk",
+    "sure": "30 dk",
+    "kalori": 340,
+    "protein": "15g",
+    "karbonhidrat": "40g",
+    "malzemeler": ["Un", "Kıyma", "Soğan", "Biber", "Domates", "Salça", "Sarımsak"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Kıymayı robottan geçirilmiş sebzeler ve salçayla karıştırarak harç yapın.",
+      "2. Adım (10 dk): Mayalı hamurdan bezeler alıp incecik açın ve harcı yayın.",
+      "3. Adım (10 dk): En yüksek dereceli fırında veya tavada pişirip sıcak servis yapın."
+    ]
+  },
+  {
+    "id": 74,
+    "ad": "Zeytinyağlı Pırasa",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "25 dk",
+    "sure": "35 dk",
+    "kalori": 150,
+    "protein": "2g",
+    "karbonhidrat": "16g",
+    "malzemeler": ["Havuç", "Pirinç", "Soğan", "Zeytinyağı"],
+    "hazirlanis": [
+      "1. Adım (5 dk): Doğranmış pırasa ve halka havuçları zeytinyağında hafifçe soteleyin.",
+      "2. Adım (5 dk): Yıkanmış pirinci, tuzu, şekeri ve az suyu ekleyip karıştırın.",
+      "3. Adım (25 dk): Kısık ateşte pırasalar ve havuçlar yumuşayana kadar pişmeye bırakın."
+    ]
+  },
+  {
+    "id": 75,
+    "ad": "Fırında Kıymalı Patates Oturtma",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "30 dk",
+    "sure": "45 dk",
+    "kalori": 320,
+    "protein": "16g",
+    "karbonhidrat": "28g",
+    "malzemeler": ["Patates", "Kıyma", "Soğan", "Salça", "Biber", "Domates"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Patatesleri halka doğrayıp hafifçe kızartın ya da fırınlayın.",
+      "2. Adım (10 dk): Ayrı tavada kıyma, soğan, biber ve salçayla iç harcı hazırlayın.",
+      "3. Adım (25 dk): Borcama patates ve kıymayı kat kat dizip salçalı su ekleyerek fırında pişirin."
+    ]
+  },
+  {
+    "id": 76,
+    "ad": "Menemen (Soğanlı)",
+    "ogun": ["kahvalti"],
+    "kisi_sayisi": "2 Kişilik",
+    "hazirlik_suresi": "5 dk",
+    "pisirme_suresi": "12 dk",
+    "sure": "17 dk",
+    "kalori": 295,
+    "protein": "14g",
+    "karbonhidrat": "12g",
+    "malzemeler": ["Yumurta", "Domates", "Biber", "Soğan", "Sıvı Yağ"],
+    "hazirlanis": [
+      "1. Adım (5 dk): Soğan ve biberleri ince doğrayıp sıvı yağda kavurun.",
+      "2. Adım (5 dk): Küp doğranmış domatesleri ekleyip yumuşayana kadar pişirin.",
+      "3. Adım (2 dk): Yumurtaları kırıp karıştırarak pişmeye bırakın."
+    ]
+  },
+  {
+    "id": 77,
+    "ad": "Fırında Mücver (Kabaklı)",
+    "ogun": ["kahvalti", "ogle"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "25 dk",
+    "sure": "40 dk",
+    "kalori": 175,
+    "protein": "8g",
+    "karbonhidrat": "16g",
+    "malzemeler": ["Kabak", "Yumurta", "Un", "Beyaz Peynir", "Dereotu", "Zeytinyağı"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Kabakları rendeleyip suyunu tamamen sıkın.",
+      "2. Adım (5 dk): Yumurta, un, peynir, dereotu ve zeytinyağı ile karıştırıp borcama yayın.",
+      "3. Adım (25 dk): 180 derece fırında üzeri kızarana kadar pişirin."
+    ]
+  },
+  {
+    "id": 78,
+    "ad": "Kıymalı Pide",
+    "ogun": ["ogle", "aksam", "fastfood"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "20 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "35 dk",
+    "kalori": 430,
+    "protein": "21g",
+    "karbonhidrat": "48g",
+    "malzemeler": ["Un", "Kıyma", "Soğan", "Biber", "Domates", "Salça"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Kıyma, soğan, biber, domates ve salçayı karıştırarak iç harç hazırlayın.",
+      "2. Adım (10 dk): Hamuru açıp ortasına harcı yayın, kenarlarını katlayın.",
+      "3. Adım (15 dk): Fırında kızarana kadar pişirip tereyağı sürün."
+    ]
+  },
+  {
+    "id": 79,
+    "ad": "Tavuklu Noodle",
+    "ogun": ["ogle", "aksam", "fastfood"],
+    "kisi_sayisi": "2 Kişilik",
+    "hazirlik_suresi": "5 dk",
+    "pisirme_suresi": "10 dk",
+    "sure": "15 dk",
+    "kalori": 410,
+    "protein": "22g",
+    "karbonhidrat": "52g",
+    "malzemeler": ["Noodle", "Tavuk", "Biber", "Soya Sosu", "Sıvı Yağ"],
+    "hazirlanis": [
+      "1. Adım (5 dk): Küp tavukları ve biberleri sıvı yağda soteleyin.",
+      "2. Adım (5 dk): Haşlanmış noodle'ı ve soya sosunu ekleyip yüksek ateşte harmanlayın.",
+      "3. Adım (5 dk): Sıcak servis yapın."
+    ]
+  },
+  {
+    "id": 80,
+    "ad": "Fırında Tavuk Pirzola",
+    "ogun": ["aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "30 dk",
+    "sure": "40 dk",
+    "kalori": 350,
+    "protein": "27g",
+    "karbonhidrat": "4g",
+    "malzemeler": ["Tavuk", "Sarımsak", "Salça", "Zeytinyağı"],
+    "hazirlanis": [
+      "1. Adım (5 dk): Salça, ezilmiş sarımsak ve zeytinyağı ile sos hazırlayıp tavukları soslayın.",
+      "2. Adım (5 dk): Fırın tepsisine dizin.",
+      "3. Adım (30 dk): 200 derece fırında nar gibi kızarana kadar pişirin."
+    ]
+  },
+  {
+    "id": 81,
+    "ad": "Zeytinyağlı Kabak",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "20 dk",
+    "sure": "30 dk",
+    "kalori": 130,
+    "protein": "3g",
+    "karbonhidrat": "12g",
+    "malzemeler": ["Kabak", "Soğan", "Havuç", "Dereotu", "Zeytinyağı"],
+    "hazirlanis": [
+      "1. Adım (5 dk): Doğranmış soğan ve havuçları zeytinyağında soteleyin.",
+      "2. Adım (5 dk): Yuvarlak doğranmış kabakları ekleyin.",
+      "3. Adım (20 dk): Kısık ateşte kendi suyuyla pişirip dereotuyla süsleyin."
+    ]
+  },
+  {
+    "id": 82,
+    "ad": "Kıymalı Yumurta",
+    "ogun": ["kahvalti"],
+    "kisi_sayisi": "2 Kişilik",
+    "hazirlik_suresi": "5 dk",
+    "pisirme_suresi": "10 dk",
+    "sure": "15 dk",
+    "kalori": 360,
+    "protein": "20g",
+    "karbonhidrat": "3g",
+    "malzemeler": ["Kıyma", "Yumurta", "Tereyağı"],
+    "hazirlanis": [
+      "1. Adım (5 dk): Kıymayı tereyağında kavurun.",
+      "2. Adım (3 dk): Yumurtaları üzerine kırıp karıştırarak pişirin.",
+      "3. Adım (2 dk): Sıcak servis yapın."
+    ]
+  },
+  {
+    "id": 83,
+    "ad": "Fırında Kaşarlı Tavuk",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "3 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "25 dk",
+    "sure": "35 dk",
+    "kalori": 390,
+    "protein": "32g",
+    "karbonhidrat": "5g",
+    "malzemeler": ["Tavuk", "Kaşar Peyniri", "Domates", "Biber", "Tereyağı"],
+    "hazirlanis": [
+      "1. Adım (5 dk): Tavukları kuşbaşı doğrayıp tereyağında hafif soteleyin ve borcama alın.",
+      "2. Adım (5 dk): Üzerine domates ve biber dilimleri dizin.",
+      "3. Adım (25 dk): Fırında pişmeye yakın üzerine kaşar rendesi döküp eriyene kadar fırınlayın."
+    ]
+  },
+  {
+    "id": 84,
+    "ad": "Patates Salatası",
+    "ogun": ["kahvalti", "ogle"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "20 dk",
+    "sure": "30 dk",
+    "kalori": 210,
+    "protein": "4g",
+    "karbonhidrat": "28g",
+    "malzemeler": ["Patates", "Soğan", "Dereotu", "Zeytinyağı", "Limon"],
+    "hazirlanis": [
+      "1. Adım (15 dk): Patatesleri haşlayıp küp doğrayın.",
+      "2. Adım (5 dk): İnce kıyılmış soğan, dereotu, zeytinyağı ve limon ekleyin.",
+      "3. Adım (10 dk): Nazikçe harmanlayıp servis tabağına alın."
+    ]
+  },
+  {
+    "id": 85,
+    "ad": "Zeytinyağlı Patlıcan",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "25 dk",
+    "sure": "40 dk",
+    "kalori": 190,
+    "protein": "3g",
+    "karbonhidrat": "15g",
+    "malzemeler": ["Patlıcan", "Domates", "Soğan", "Sarımsak", "Zeytinyağı"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Patlıcanları küp doğrayıp tuzlu suda bekletin.",
+      "2. Adım (5 dk): Soğan ve sarımsağı zeytinyağında kavurup patlıcanları ekleyin.",
+      "3. Adım (25 dk): Domatesle birlikte kısık ateşte yumuşayana kadar pişirin."
+    ]
+  },
+  {
+    "id": 86,
+    "ad": "Tavuklu Sandviç",
+    "ogun": ["kahvalti", "ogle", "fastfood"],
+    "kisi_sayisi": "1 Kişilik",
+    "hazirlik_suresi": "5 dk",
+    "pisirme_suresi": "10 dk",
+    "sure": "15 dk",
+    "kalori": 390,
+    "protein": "25g",
+    "karbonhidrat": "32g",
+    "malzemeler": ["Ekmek", "Tavuk", "Marul", "Domates", "Mayonez"],
+    "hazirlanis": [
+      "1. Adım (5 dk): Tavuk dilimlerini tavada pişirin.",
+      "2. Adım (3 dk): Ekmeğin arasına mayonez, marul, domates ve sıcak tavukları yerleştirin.",
+      "3. Adım (2 dk): Bastırarak servis edin."
+    ]
+  },
+  {
+    "id": 87,
+    "ad": "Fırında Sebzeli Köfte",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "30 dk",
+    "sure": "45 dk",
+    "kalori": 340,
+    "protein": "21g",
+    "karbonhidrat": "24g",
+    "malzemeler": ["Kıyma", "Patates", "Biber", "Domates", "Salça"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Köfte harcını hazırlayıp şekil verin.",
+      "2. Adım (5 dk): Patates ve biberlerle birlikte tepsiye dizin, salçalı su gezdirin.",
+      "3. Adım (30 dk): Fırında sebzeler kızarana kadar pişirin."
+    ]
+  },
+  {
+    "id": 88,
+    "ad": "Mercimek Çorbası (Terbiyeli)",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "5 dk",
+    "pisirme_suresi": "20 dk",
+    "sure": "25 dk",
+    "kalori": 170,
+    "protein": "9g",
+    "karbonhidrat": "25g",
+    "malzemeler": ["Mercimek", "Soğan", "Un", "Yumurta", "Sıvı Yağ"],
+    "hazirlanis": [
+      "1. Adım (15 dk): Mercimek ve soğanı suyla haşlayıp blenderdan geçirin.",
+      "2. Adım (5 dk): Un ve yumurta ile terbiye hazırlayıp çorbaya yavaşça ekleyin.",
+      "3. Adım (5 dk): Bir taşım kaynatıp ocaktan alın."
+    ]
+  },
+  {
+    "id": 89,
+    "ad": "Kaşarlı Patates Püresi",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "3 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "25 dk",
+    "kalori": 280,
+    "protein": "8g",
+    "karbonhidrat": "30g",
+    "malzemeler": ["Patates", "Süt", "Tereyağı", "Kaşar Peyniri"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Haşlanan patatesleri sıcakken ezip süt ve tereyağı ekleyin.",
+      "2. Adım (3 dk): Pürüzsüzleşince kaşar peyniri ekleyip karıştırın.",
+      "3. Adım (2 dk): Sıcak servis yapın."
+    ]
+  },
+  {
+    "id": 90,
+    "ad": "Zeytinyağlı Bamya",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "25 dk",
+    "sure": "40 dk",
+    "kalori": 140,
+    "protein": "4g",
+    "karbonhidrat": "16g",
+    "malzemeler": ["Domates", "Soğan", "Zeytinyağı", "Limon"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Bamyaları külah şeklinde temizleyip limonlu suda bekletin.",
+      "2. Adım (5 dk): Soğan ve domatesi zeytinyağında soteleyip bamyaları ekleyin.",
+      "3. Adım (25 dk): Kısık ateşte yumuşayana kadar pişirin."
+    ]
+  },
+  {
+    "id": 91,
+    "ad": "Fırında Kıymalı Patlıcan",
+    "ogun": ["aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "30 dk",
+    "sure": "45 dk",
+    "kalori": 290,
+    "protein": "15g",
+    "karbonhidrat": "13g",
+    "malzemeler": ["Patlıcan", "Kıyma", "Soğan", "Domates", "Salça"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Patlıcanları dilimleyip tepsiye dizin.",
+      "2. Adım (10 dk): Kıymalı harcı üzerine yayın.",
+      "3. Adım (25 dk): Salçalı su ekleyip fırında pişirin."
+    ]
+  },
+  {
+    "id": 92,
+    "ad": "Tavuklu Salata",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "2 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "10 dk",
+    "sure": "20 dk",
+    "kalori": 240,
+    "protein": "22g",
+    "karbonhidrat": "8g",
+    "malzemeler": ["Tavuk", "Marul", "Domates", "Zeytinyağı", "Limon"],
+    "hazirlanis": [
+      "1. Adım (8 dk): Tavuk göğsünü ızgara edip dilimleyin.",
+      "2. Adım (5 dk): Marul ve domatesi doğrayıp kaseye alın.",
+      "3. Adım (2 dk): Üzerine tavukları dizip zeytinyağı ve limon sosu gezdirin."
+    ]
+  },
+  {
+    "id": 93,
+    "ad": "Fırında Kaşarlı Sucuklu Ekmek",
+    "ogun": ["kahvalti", "fastfood"],
+    "kisi_sayisi": "3 Kişilik",
+    "hazirlik_suresi": "5 dk",
+    "pisirme_suresi": "10 dk",
+    "sure": "15 dk",
+    "kalori": 380,
+    "protein": "15g",
+    "karbonhidrat": "32g",
+    "malzemeler": ["Ekmek", "Sucuk", "Kaşar Peyniri", "Tereyağı"],
+    "hazirlanis": [
+      "1. Adım (3 dk): Ekmek dilimlerine tereyağı sürün.",
+      "2. Adım (2 dk): Üzerine sucuk dilimleri ve kaşar rendesi koyun.",
+      "3. Adım (10 dk): Fırında kaşarlar eriyip kızarana kadar pişirin."
+    ]
+  },
+  {
+    "id": 94,
+    "ad": "Şehriyeli Bulgur Pilavı",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "5 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "20 dk",
+    "kalori": 250,
+    "protein": "7g",
+    "karbonhidrat": "44g",
+    "malzemeler": ["Bulgur", "Tereyağı", "Sıvı Yağ"],
+    "hazirlanis": [
+      "1. Adım (5 dk): Şehriyeleri yağda kavurun.",
+      "2. Adım (3 dk): Yıkanmış bulguru ekleyip kavurmaya devam edin.",
+      "3. Adım (12 dk): Sıcak su ekleyip suyunu çekene kadar kısık ateşte pişirin."
+    ]
+  },
+  {
+    "id": 95,
+    "ad": "Fırında Patatesli Tavuk",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "30 dk",
+    "sure": "45 dk",
+    "kalori": 360,
+    "protein": "25g",
+    "karbonhidrat": "30g",
+    "malzemeler": ["Tavuk", "Patates", "Soğan", "Salça", "Zeytinyağı"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Tavuk ve patatesleri doğrayıp tepsiye alın.",
+      "2. Adım (5 dk): Salçalı ve zeytinyağlı sos ekleyip harmanlayın.",
+      "3. Adım (30 dk): Fırında kızarana kadar pişirin."
+    ]
+  },
+  {
+    "id": 96,
+    "ad": "Zeytinyağlı Brüksel Lahanası",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "20 dk",
+    "sure": "30 dk",
+    "kalori": 140,
+    "protein": "4g",
+    "karbonhidrat": "15g",
+    "malzemeler": ["Havuç", "Soğan", "Zeytinyağı", "Limon"],
+    "hazirlanis": [
+      "1. Adım (5 dk): Brüksel lahanalarını temizleyip soğan ve havuçla birlikte tencereye alın.",
+      "2. Adım (5 dk): Zeytinyağı, tuz ve limon suyu ekleyin.",
+      "3. Adım (20 dk): Kısık ateşte yumuşayana kadar pişirin."
+    ]
+  },
+  {
+    "id": 97,
+    "ad": "Kıymalı Yumurtalı Pide",
+    "ogun": ["kahvalti", "ogle"],
+    "kisi_sayisi": "2 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "25 dk",
+    "kalori": 420,
+    "protein": "22g",
+    "karbonhidrat": "45g",
+    "malzemeler": ["Un", "Kıyma", "Yumurta", "Tereyağı"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Hamuru açıp kıymalı harcı yayın.",
+      "2. Adım (15 dk): Fırında pişmeye yakın üzerine yumurta kırın.",
+      "3. Adım (2 mins): Yumurta istenen kıvama gelince fırından çıkarın."
+    ]
+  },
+  {
+    "id": 98,
+    "ad": "Tavuklu Mantar Sote",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "3 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "25 dk",
+    "kalori": 260,
+    "protein": "28g",
+    "karbonhidrat": "6g",
+    "malzemeler": ["Tavuk", "Mantar", "Biber", "Soğan", "Tereyağı"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Tavuk ve mantarları doğrayıp yüksek ateşte soteleyin.",
+      "2. Adım (5 dk): Soğan ve biberi ekleyip kavurmaya devam edin.",
+      "3. Adım (10 dk): Tereyağı ve baharat ekleyip pişirin."
+    ]
+  },
+  {
+    "id": 99,
+    "ad": "Fırında Kaşarlı Domatesli Ekmek",
+    "ogun": ["kahvalti", "fastfood"],
+    "kisi_sayisi": "3 Kişilik",
+    "hazirlik_suresi": "5 dk",
+    "pisirme_suresi": "10 dk",
+    "sure": "15 dk",
+    "kalori": 290,
+    "protein": "10g",
+    "karbonhidrat": "32g",
+    "malzemeler": ["Ekmek", "Domates", "Kaşar Peyniri", "Zeytinyağı"],
+    "hazirlanis": [
+      "1. Adım (3 dk): Ekmeklere zeytinyağı sürün.",
+      "2. Adım (2 dk): Üzerine domates dilimleri ve kaşar rendesi koyun.",
+      "3. Adım (10 dk): Fırında eriyene kadar pişirin."
+    ]
+  },
+  {
+    "id": 100,
+    "ad": "Zeytinyağlı Semizotu",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "25 dk",
+    "kalori": 120,
+    "protein": "3g",
+    "karbonhidrat": "10g",
+    "malzemeler": ["Soğan", "Pirinç", "Zeytinyağı", "Yoğurt"],
+    "hazirlanis": [
+      "1. Adım (5 dk): Semizotlarını yıkayıp süzün.",
+      "2. Adım (5 dk): Soğanı zeytinyağında kavurup pirinç ve semizotunu ekleyin.",
+      "3. Adım (15 dk): Kendi suyuyla pişirip isteğe göre sarımsaklı yoğurtla servis edin."
+    ]
+  },
+  {
+    "id": 101,
+    "ad": "Köz Patlıcan Salatası",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "20 dk",
+    "sure": "30 dk",
+    "kalori": 110,
+    "protein": "2g",
+    "karbonhidrat": "12g",
+    "malzemeler": ["Patlıcan", "Biber", "Domates", "Sarımsak", "Zeytinyağı", "Limon"],
+    "hazirlanis": [
+      "1. Adım (15 dk): Patlıcan ve biberleri fırında veya ocakta közleyin.",
+      "2. Adım (5 dk): Kabuklarını soyup ince doğrayın, sarımsak, zeytinyağı ve limonla karıştırın.",
+      "3. Adım (5 dk): Domates ekleyip servis tabağına alın."
+    ]
+  },
+  {
+    "id": 102,
+    "ad": "Ev Yapımı İskender",
+    "ogun": ["aksam"],
+    "kisi_sayisi": "3 Kişilik",
+    "hazirlik_suresi": "20 dk",
+    "pisirme_suresi": "20 dk",
+    "sure": "40 dk",
+    "kalori": 590,
+    "protein": "34g",
+    "karbonhidrat": "48g",
+    "malzemeler": ["Ekmek", "Kuşbaşı Et", "Tereyağı", "Domates", "Salça", "Yoğurt"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Pide ekmeklerini küp doğrayıp hafifçe ısıtın.",
+      "2. Adım (10 dk): Etleri tereyağında pişirin, ayrı yerde domates ve salçayla sos hazırlayın.",
+      "3. Adım (10 dk): Tabağa ekmekleri, üzerine etleri, sosu, tereyağını ve kenarına yoğurt koyarak servis edin."
+    ]
+  },
+  {
+    "id": 103,
+    "ad": "Fırında Kaşarlı Kabak",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "3 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "20 dk",
+    "sure": "30 dk",
+    "kalori": 190,
+    "protein": "8g",
+    "karbonhidrat": "10g",
+    "malzemeler": ["Kabak", "Kaşar Peyniri", "Sıvı Yağ", "Dereotu"],
+    "hazirlanis": [
+      "1. Adım (5 dk): Kabakları halka doğrayıp yağlayın ve tepsiye dizin.",
+      "2. Adım (15 dk): Fırında hafif yumuşayana kadar pişirin.",
+      "3. Adım (5 dk): Üzerine kaşar rendesi döküp eriyip kızarana kadar fırınlayın."
+    ]
+  },
+  {
+    "id": 104,
+    "ad": "Zeytinyağlı Kuru Domates",
+    "ogun": ["kahvalti", "ogle"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "5 dk",
+    "sure": "15 dk",
+    "kalori": 160,
+    "protein": "3g",
+    "karbonhidrat": "14g",
+    "malzemeler": ["Sarımsak", "Zeytinyağı"],
+    "hazirlanis": [
+      "1. Adım (5 dk): Kuru domatesleri sıcak suda yumuşatıp süzün.",
+      "2. Adım (5 dk): İnce doğranmış sarımsak ve bol zeytinyağıyla harmanlayın.",
+      "3. Adım (5 dk): Kavanozda dinlendirip kahvaltıda servis edin."
+    ]
+  },
+  {
+    "id": 105,
+    "ad": "Tavuklu Sebzeli Çorba",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "20 dk",
+    "sure": "30 dk",
+    "kalori": 160,
+    "protein": "14g",
+    "karbonhidrat": "15g",
+    "malzemeler": ["Tavuk", "Havuç", "Patates", "Soğan", "Un", "Tereyağı"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Tavuğu haşlayıp didikleyin, sebzeleri küp doğrayın.",
+      "2. Adım (15 dk): Tereyağında unu kavurup tavuk suyu ve sebzeleri ekleyerek haşlayın.",
+      "3. Adım (5 dk): Didiklenmiş tavukları ekleyip birkaç dakika kaynatın."
+    ]
+  },
+  {
+    "id": 106,
+    "ad": "Fırında Soslu Patates",
+    "ogun": ["kahvalti", "ogle", "fastfood"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "25 dk",
+    "sure": "35 dk",
+    "kalori": 240,
+    "protein": "4g",
+    "karbonhidrat": "36g",
+    "malzemeler": ["Patates", "Sıvı Yağ", "Sarımsak", "Salça"],
+    "hazirlanis": [
+      "1. Adım (5 dk): Patatesleri elma dilim doğrayın.",
+      "2. Adım (5 dk): Sıvı yağ, salça ve ezilmiş sarımsakla hazırlanan sosla harmanlayın.",
+      "3. Adım (25 dk): Fırında dışı çıtır, içi yumuşak olana kadar pişirin."
+    ]
+  },
+  {
+    "id": 107,
+    "ad": "Kıymalı Kabak Yemeği",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "20 dk",
+    "sure": "30 dk",
+    "kalori": 200,
+    "protein": "11g",
+    "karbonhidrat": "14g",
+    "malzemeler": ["Kabak", "Kıyma", "Soğan", "Salça", "Dereotu", "Sıvı Yağ"],
+    "hazirlanis": [
+      "1. Adım (5 dk): Kıyma ve soğanı sıvı yağda kavurun.",
+      "2. Adım (5 dk): Salçayı ve küp doğranmış kabakları ekleyin.",
+      "3. Adım (20 dk): Az sıcak su ekleyip kabaklar yumuşayana kadar pişirin, dereotuyla süsleyin."
+    ]
+  },
+  {
+    "id": 108,
+    "ad": "Zeytinyağlı Enginarlı Bezelye",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "25 dk",
+    "sure": "40 dk",
+    "kalori": 190,
+    "protein": "6g",
+    "karbonhidrat": "24g",
+    "malzemeler": ["Havuç", "Patates", "Soğan", "Zeytinyağı", "Limon"],
+    "hazirlik_notu": "Enginar ve bezelye uyumu",
+    "hazirlanis": [
+      "1. Adım (10 dk): Enginarları doğrayıp havuç, patates ve soğanla birlikte tencereye alın.",
+      "2. Adım (5 dk): Zeytinyağı, limon suyu, şeker ve tuz ekleyin.",
+      "3. Adım (25 dk): Kısık ateşte sebzeler yumuşayana kadar pişirin."
+    ]
+  },
+  {
+    "id": 109,
+    "ad": "Fırında Kaşarlı Biber",
+    "ogun": ["kahvalti", "ogle"],
+    "kisi_sayisi": "3 Kişilik",
+    "hazirlik_suresi": "5 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "20 dk",
+    "kalori": 180,
+    "protein": "7g",
+    "karbonhidrat": "8g",
+    "malzemeler": ["Biber", "Kaşar Peyniri", "Zeytinyağı"],
+    "hazirlanis": [
+      "1. Adım (5 dk): Biberleri ortadan ikiye kesip çekirdeklerini çıkarın ve tepsiye dizin.",
+      "2. Adım (10 dk): Üzerlerine zeytinyağı gezdirip fırında hafif yumuşatın.",
+      "3. Adım (5 dk): Üzerine kaşar peyniri döküp eriyene kadar tekrar fırınlayın."
+    ]
+  },
+  {
+    "id": 110,
+    "ad": "Tavuklu Şehriye Çorbası",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "5 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "20 dk",
+    "kalori": 150,
+    "protein": "12g",
+    "karbonhidrat": "16g",
+    "malzemeler": ["Tavuk", "Tereyağı", "Salça", "Limon"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Haşlanmış tavuğu didikleyin.",
+      "2. Adım (5 dk): Tereyağında salçayı kavurup tavuk suyunu ve şehriyeyi ekleyin.",
+      "3. Adım (5 dk): Didiklenmiş tavukları ekleyip şehriyeler pişene kadar kaynatın."
+    ]
+  },
+  {
+    "id": 111,
+    "ad": "Fırında Kaşarlı Somon",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "2 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "20 dk",
+    "sure": "30 dk",
+    "kalori": 340,
+    "protein": "30g",
+    "karbonhidrat": "2g",
+    "malzemeler": ["Zeytinyağı", "Sarımsak", "Limon", "Kaşar Peyniri"],
+    "hazirlanis": [
+      "1. Adım (5 dk): Balıkları zeytinyağı, sarımsak ve limonla marine edin.",
+      "2. Adım (15 dk): Fırında pişmeye bırakın.",
+      "3. Adım (5 dk): Üzerine hafif kaşar rendesi serpip erimesini sağlayın."
+    ]
+  },
+  {
+    "id": 112,
+    "ad": "Zeytinyağlı Kereviz",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "25 dk",
+    "sure": "40 dk",
+    "kalori": 170,
+    "protein": "3g",
+    "karbonhidrat": "18g",
+    "malzemeler": ["Havuç", "Patates", "Soğan", "Zeytinyağı", "Limon"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Kerevizleri soyup kararmaması için limonlu suda bekletin.",
+      "2. Adım (5 dk): Soğan, havuç ve patatesle birlikte tencereye alıp zeytinyağı ekleyin.",
+      "3. Adım (25 dk): Portakal suyu veya su ile yumuşayana kadar pişirin."
+    ]
+  },
+  {
+    "id": 113,
+    "ad": "Kıymalı Yumurtalı Pide Ev Usulü",
+    "ogun": ["kahvalti", "ogle"],
+    "kisi_sayisi": "2 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "25 dk",
+    "kalori": 430,
+    "protein": "23g",
+    "karbonhidrat": "44g",
+    "malzemeler": ["Un", "Kıyma", "Yumurta", "Soğan"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Hamuru açıp kıymalı harcı yerleştirin.",
+      "2. Adım (12 dk): Fırında kenarları kızarana kadar pişirin.",
+      "3. Adım (3 dk): Çıkarmaya yakın yumurta kırıp pişmesini sağlayın."
+    ]
+  },
+  {
+    "id": 114,
+    "ad": "Tavuklu Fırın Makarna",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "25 dk",
+    "sure": "40 dk",
+    "kalori": 490,
+    "protein": "27g",
+    "karbonhidrat": "52g",
+    "malzemeler": ["Makarna", "Tavuk", "Un", "Süt", "Tereyağı", "Kaşar Peyniri"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Makarnayı haşlayıp sotelenmiş tavuklarla karıştırın.",
+      "2. Adım (5 dk): Beşamel sosu hazırlayıp makarnayla birleştirin ve borcama dökün.",
+      "3. Adım (25 dk): Üzerine kaşar döküp fırında kızartın."
+    ]
+  },
+  {
+    "id": 115,
+    "ad": "Fırında Kaşarlı Mantar Dolması",
+    "ogun": ["kahvalti", "ogle", "aksam"],
+    "kisi_sayisi": "2 Kişilik",
+    "hazirlik_suresi": "5 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "20 dk",
+    "kalori": 220,
+    "protein": "11g",
+    "karbonhidrat": "6g",
+    "malzemeler": ["Mantar", "Kaşar Peyniri", "Tereyağı", "Sarımsak"],
+    "hazirlanis": [
+      "1. Adım (5 dk): Mantar saplarını çıkarıp içlerine tereyağı ve ezilmiş sarımsak koyun.",
+      "2. Adım (10 dk): Fırında hafif pişirin.",
+      "3. Adım (5 dk): Üzerine kaşar ekleyip eriyene kadar fırınlayın."
+    ]
+  },
+  {
+    "id": 116,
+    "ad": "Zeytinyağlı Enginar Dolması",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "20 dk",
+    "pisirme_suresi": "30 dk",
+    "sure": "50 dk",
+    "kalori": 185,
+    "protein": "4g",
+    "karbonhidrat": "24g",
+    "malzemeler": ["Pirinç", "Soğan", "Zeytinyağı", "Dereotu", "Limon"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Dereotlu, soğanlı pirinçli iç harcı hazırlayın.",
+      "2. Adım (10 dk): Enginar çanaklarının içine harcı doldurun.",
+      "3. Adım (30 dk): Zeytinyağlı su ile tencerede kısık ateşte pişirin."
+    ]
+  },
+  {
+    "id": 117,
+    "ad": "Fırında Soslu Tavuk Kanat",
+    "ogun": ["aksam", "fastfood"],
+    "kisi_sayisi": "3 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "30 dk",
+    "sure": "40 dk",
+    "kalori": 400,
+    "protein": "26g",
+    "karbonhidrat": "5g",
+    "malzemeler": ["Tavuk", "Yoğurt", "Salça", "Sıvı Yağ", "Sarımsak"],
+    "hazirlanis": [
+      "1. Adım (5 dk): Yoğurt, salça, sıvı yağ ve sarımsakla sos yapıp kanatları marine edin.",
+      "2. Adım (5 dk): Fırın tepsisine dizin.",
+      "3. Adım (30 dk): 200 derecede çıtırlaşana kadar pişirin."
+    ]
+  },
+  {
+    "id": 118,
+    "ad": "Kıymalı Yumurtalı Pide",
+    "ogun": ["kahvalti", "ogle"],
+    "kisi_sayisi": "2 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "25 dk",
+    "kalori": 425,
+    "protein": "22g",
+    "karbonhidrat": "46g",
+    "malzemeler": ["Un", "Kıyma", "Yumurta", "Soğan", "Tereyağı"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Hamuru hazırlayıp kıymalı harcı yayın.",
+      "2. Adım (12 dk): Fırında pişirin.",
+      "3. Adım (3 dk): Yumurta kırıp katılaşana kadar fırında tutun."
+    ]
+  },
+  {
+    "id": 119,
+    "ad": "Tavuklu Şehriye Salatası",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "10 dk",
+    "sure": "20 dk",
+    "kalori": 270,
+    "protein": "16g",
+    "karbonhidrat": "32g",
+    "malzemeler": ["Tavuk", "Dereotu", "Zeytinyağı", "Limon"],
+    "hazirlanis": [
+      "1. Adım (8 dk): Arpa şehriyeyi haşlayıp süzün, didiklenmiş tavuk ekleyin.",
+      "2. Adım (5 dk): İnce kıyılmış dereotu ekleyin.",
+      "3. Adım (7 dk): Zeytinyağı ve limon sosuyla harmanlayıp servis yapın."
+    ]
+  },
+  {
+    "id": 120,
+    "ad": "Fırında Kaşarlı Domates",
+    "ogun": ["kahvalti", "ogle"],
+    "kisi_sayisi": "3 Kişilik",
+    "hazirlik_suresi": "5 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "20 dk",
+    "kalori": 150,
+    "protein": "6g",
+    "karbonhidrat": "6g",
+    "malzemeler": ["Domates", "Kaşar Peyniri", "Zeytinyağı", "Sarımsak"],
+    "hazirlanis": [
+      "1. Adım (5 dk): Domatesleri kalın dilimleyip tepsiye dizin.",
+      "2. Adım (10 dk): Üzerine zeytinyağı ve sarımsak sürüp hafif fırınlayın.",
+      "3. Adım (5 dk): Kaşar rendesi döküp eriyene kadar pişirin."
+    ]
+  },
+  {
+    "id": 121,
+    "ad": "Kazandibi",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "6 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "25 dk",
+    "sure": "40 dk",
+    "kalori": 290,
+    "protein": "5g",
+    "karbonhidrat": "48g",
+    "malzemeler": ["Süt", "Un", "Tereyağı"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Süt, un ve şekeri tencerede karıştırarak koyu kıvamlı muhallebi yapın.",
+      "2. Adım (10 dk): Geniş bir tepsinin tabanına pudra şekeri ve tereyağı sürün, muhallebiden dökün.",
+      "3. Adım (15 dk): Ocağın üzerinde tabanını kontrollü bir şekilde yakarak karamelize edin, dilimleyip rulo yaparak servis edin."
+    ]
+  },
+  {
+    "id": 122,
+    "ad": "Trileçe",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "8 Kişilik",
+    "hazirlik_suresi": "20 dk",
+    "pisirme_suresi": "30 dk",
+    "sure": "50 dk",
+    "kalori": 320,
+    "protein": "7g",
+    "karbonhidrat": "45g",
+    "malzemeler": ["Un", "Süt", "Yumurta", "Krema"],
+    "hazirlanis": [
+      "1. Adım (15 dk): Yumurta ve şekeri çırpıp un ekleyerek pandispanya hamurunu hazırlayın ve fırında pişirin.",
+      "2. Adım (10 dk): Süt, krema ve şeker karışımını soğuyan kekin üzerine dökerek iyice çekmesini sağlayın.",
+      "3. Adım (15 dk): Üzerine karamel sos dökerek dilimleyip servis yapın."
+    ]
+  },
+  {
+    "id": 123,
+    "ad": "Profiterol",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "6 Kişilik",
+    "hazirlik_suresi": "30 dk",
+    "pisirme_suresi": "30 dk",
+    "sure": "60 dk",
+    "kalori": 360,
+    "protein": "6g",
+    "karbonhidrat": "42g",
+    "malzemeler": ["Un", "Yumurta", "Tereyağı", "Süt"],
+    "hazirlanis": [
+      "1. Adım (15 dk): Su, tereyağı ve unu tencerede pişirip soğuduktan sonra yumurtaları teker teker yedirerek hamuru hazırlayın.",
+      "2. Adım (10 dk): Hamurdan ceviz büyüklüğünde sıkıp fırında pişirin; süt, un ve yumurta ile kremasını yapıp içine doldurun.",
+      "3. Adım (10 dk): Üzerine çikolata sosu gezdirerek servis edin."
+    ]
+  },
+  {
+    "id": 124,
+    "ad": "Magnolia",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "6 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "30 dk",
+    "kalori": 310,
+    "protein": "6g",
+    "karbonhidrat": "40g",
+    "malzemeler": ["Süt", "Un", "Yumurta", "Krema"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Süt, un, yumurta ve şekeri çırparak ocakta muhallebi kıvamına getirin, ocaktan alıp krema ekleyin.",
+      "2. Adım (10 dk): Kupların tabanına ve kenarlarına bisküvi kırıkları ve muz dilimleri dizin.",
+      "3. Adım (10 dk): Hazırlanan muhallebiyi kuplara paylaştırıp buzdolabında soğutun."
+    ]
+  },
+  {
+    "id": 125,
+    "ad": "Supangle",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "6 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "25 dk",
+    "kalori": 280,
+    "protein": "5g",
+    "karbonhidrat": "42g",
+    "malzemeler": ["Süt", "Un", "Yumurta", "Tereyağı"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Süt, un, şeker ve kakaoyu tencerede karıştırarak pişirin.",
+      "2. Adım (5 dk): Ocaktan indikten sonra tereyağı ve buz gibi soğuk su ekleyip mikserle çırpın.",
+      "3. Adım (10 dk): Kupların tabanına kek parçaları koyup üzerine muhallebiyi dökün ve soğuk servis edin."
+    ]
+  },
+  {
+    "id": 126,
+    "ad": "Mozaik Pasta",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "8 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "5 dk",
+    "sure": "20 dk",
+    "kalori": 350,
+    "protein": "5g",
+    "karbonhidrat": "40g",
+    "malzemeler": ["Ekmek", "Süt", "Tereyağı"],
+    "hazirlanis": [
+      "1. Adım (5 dk): Tereyağını eritip süt, şeker ve kakao ile karıştırarak sos hazırlayın.",
+      "2. Adım (10 dk): Bisküvileri çok ufalamayarak kaba kırın ve sosla nazikçe harmanlayın.",
+      "3. Adım (10 dk): Streç filme sararak piramit şekli verip buzlukta donmaya bırakın."
+    ]
+  },
+  {
+    "id": 127,
+    "ad": "İrmik Helvası",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "6 Kişilik",
+    "hazirlik_suresi": "5 dk",
+    "pisirme_suresi": "20 dk",
+    "sure": "25 dk",
+    "kalori": 310,
+    "protein": "5g",
+    "karbonhidrat": "46g",
+    "malzemeler": ["Tereyağı", "Süt"],
+    "hazirlanis": [
+      "1. Adım (15 dk): İrmiği tereyağında rengi dönene kadar sürekli karıştırarak kavurun.",
+      "2. Adım (3 dk): Ayrı yerde kaynattığınız süt ve şerbeti irmik flama dökün.",
+      "3. Adım (7 dk): Kapağını kapatıp kısık ateşte demlendirerek şerbetini çektirin."
+    ]
+  },
+  {
+    "id": 128,
+    "ad": "Un Helvası",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "6 Kişilik",
+    "hazirlik_suresi": "5 dk",
+    "pisirme_suresi": "25 dk",
+    "sure": "30 dk",
+    "kalori": 340,
+    "protein": "4g",
+    "karbonhidrat": "50g",
+    "malzemeler": ["Un", "Tereyağı", "Sıvı Yağ"],
+    "hazirlanis": [
+      "1. Adım (20 dk): Unu tereyağı ve sıvı yağ karışımında kokusu çıkıp rengi hafif koyulaşana kadar kavurun.",
+      "2. Adım (5 dk): Şeker ve suyu eriterek hazırladığınız sıcak şerbeti yavaşça una dökün.",
+      "3. Adım (5 dk): Topaklanmaması için hızlıca karıştırıp demlenmeye bırakın."
+    ]
+  },
+  {
+    "id": 129,
+    "ad": "Revani",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "8 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "30 dk",
+    "sure": "45 dk",
+    "kalori": 330,
+    "protein": "5g",
+    "karbonhidrat": "52g",
+    "malzemeler": ["Un", "Yumurta", "Yoğurt", "Sıvı Yağ"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Yumurta ve şekeri çırpıp yoğurt, sıvı yağ, un ve irmik ekleyerek kek hamuru yapın.",
+      "2. Adım (30 dk): Yağlanmış tepsiye döküp 180 derece fırında kızarana kadar pişirin.",
+      "3. Adım (5 dk): Ilık kekin üzerine soğuk şerbeti döküp dinlendirin."
+    ]
+  },
+  {
+    "id": 130,
+    "ad": "Şekerpare",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "6 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "25 dk",
+    "sure": "40 dk",
+    "kalori": 360,
+    "protein": "5g",
+    "karbonhidrat": "48g",
+    "malzemeler": ["Un", "Yumurta", "Tereyağı", "Sıvı Yağ"],
+    "hazirlanis": [
+      "1. Adım (15 dk): Yumuşak tereyağı, yumurta, sıvı yağ, un ve irmikle yumuşak bir hamur yoğurun.",
+      "2. Adım (25 dk): Ceviz büyüklüğünde parçalar koparıp şekil verin ve fırında kızarana kadar pişirin.",
+      "3. Adım (5 dk): Fırından çıkan sıcak tatlıya soğuk şerbeti gezdirip çekmesini bekleyin."
+    ]
+  },
+  {
+    "id": 131,
+    "ad": "Kemalpaşa Tatlısı",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "6 Kişilik",
+    "hazirlik_suresi": "5 dk",
+    "pisirme_suresi": "20 dk",
+    "sure": "25 dk",
+    "kalori": 290,
+    "protein": "5g",
+    "karbonhidrat": "55g",
+    "malzemeler": ["Sıvı Yağ"],
+    "hazirlanis": [
+      "1. Adım (5 dk): Su ve şekeri kaynatıp şerbet hazırlayın.",
+      "2. Adım (15 dk): Paketteki Kemalpaşa peynir tatlılarını kaynayan şerbetin içine atıp yumuşayana kadar pişirin.",
+      "3. Adım (5 dk): Soğuduktan sonra kaymak veya krem şanti ile servis edin."
+    ]
+  },
+  {
+    "id": 132,
+    "ad": "Profiterollü Pasta",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "8 Kişilik",
+    "hazirlik_suresi": "25 dk",
+    "pisirme_suresi": "30 dk",
+    "sure": "55 dk",
+    "kalori": 370,
+    "protein": "6g",
+    "karbonhidrat": "44g",
+    "malzemeler": ["Un", "Süt", "Yumurta", "Krema"],
+    "hazirlanis": [
+      "1. Adım (15 dk): Küçük profiterol topları hazırlayıp fırında pişirin ve kremayla doldurun.",
+      "2. Adım (10 dk): Tabanına kakaolu kek yapıp üzerine hazırladığınız topları dizin.",
+      "3. Adım (10 dk): Üzerine bol çikolata sosu dökerek dolapta dinlendirin."
+    ]
+  },
+  {
+    "id": 133,
+    "ad": "Tiramisu",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "8 Kişilik",
+    "hazirlik_suresi": "20 dk",
+    "pisirme_suresi": "20 dk",
+    "sure": "40 dk",
+    "kalori": 340,
+    "protein": "7g",
+    "karbonhidrat": "42g",
+    "malzemeler": ["Un", "Süt", "Yumurta", "Labne"],
+    "hazirlanis": [
+      "1. Adım (15 dk): Pandispanya keki hazırlayıp kahveli suyla ıslatın.",
+      "2. Adım (10 dk): Süt, un, yumurta ve labne peyniriyle hazırladığınız kremayı katların arasına ve üzerine sürün.",
+      "3. Adım (15 dk): Üzerine bol kakao eleyip dilimleyerek servis edin."
+    ]
+  },
+  {
+    "id": 134,
+    "ad": "Eclairs (Ekler)",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "6 Kişilik",
+    "hazirlik_suresi": "30 dk",
+    "pisirme_suresi": "30 dk",
+    "sure": "60 dk",
+    "kalori": 350,
+    "protein": "6g",
+    "karbonhidrat": "40g",
+    "malzemeler": ["Un", "Yumurta", "Tereyağı", "Süt"],
+    "hazirlanis": [
+      "1. Adım (15 dk): Profiterol hamuru gibi hazırlayıp sıkma torbasıyla uzun şeritler halinde tepsiye sıkın.",
+      "2. Adım (25 dk): Fırında kuruyana kadar pişirip içini krema ile doldurun.",
+      "3. Adım (10 dk): Üst kısmını benmari usulü çikolataya batırıp soğutun."
+    ]
+  },
+  {
+    "id": 135,
+    "ad": "Brownie",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "6 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "25 dk",
+    "sure": "40 dk",
+    "kalori": 410,
+    "protein": "5g",
+    "karbonhidrat": "46g",
+    "malzemeler": ["Un", "Yumurta", "Tereyağı", "Süt"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Tereyağı ve çikolatayı eritip yumurta, şeker ve unu ekleyerek yoğun kıvamlı hamur yapın.",
+      "2. Adım (25 dk): Kare borcama döküp içi ıslak kalacak şekilde fırında pişirin.",
+      "3. Adım (5 dk): Dilimleyip dondurma veya çilekle servis edin."
+    ]
+  },
+  {
+    "id": 136,
+    "ad": "Çikolatalı Sufle",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "2 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "10 dk",
+    "sure": "20 dk",
+    "kalori": 380,
+    "protein": "6g",
+    "karbonhidrat": "38g",
+    "malzemeler": ["Un", "Yumurta", "Tereyağı", "Süt"],
+    "hazirlanis": [
+      "1. Adım (8 dk): Çikolata ve tereyağını eritip yumurta, şeker ve az un ile çırparak homojen harç elde edin.",
+      "2. Adım (2 dk): Yağlanmış ve kakalanmış kaplara paylaştırın.",
+      "3. Adım (10 dk): Önceden ısıtılmış 200 derece fırında içi akışkan kalacak şekilde kısa süre pişirip hemen servis yapın."
+    ]
+  },
+  {
+    "id": 137,
+    "ad": "Kıbrıs Tatlısı",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "8 Kişilik",
+    "hazirlik_suresi": "20 dk",
+    "pisirme_suresi": "30 dk",
+    "sure": "50 dk",
+    "kalori": 360,
+    "protein": "5g",
+    "karbonhidrat": "45g",
+    "malzemeler": ["Yumurta", "Un", "Krema"],
+    "hazirlanis": [
+      "1. Adım (15 dk): Ekmek kadayıfı kırıkları, ceviz ve galeta unu ile kek hamurunu hazırlayıp fırında pişirin.",
+      "2. Adım (5 dk): Fırından çıkan sıcak keke şerbet dökün; üzerine krem şanti ve krema karışımı sürün.",
+      "3. Adım (10 dk): Üzerine bol hindistancevizi serpip buzdolabında soğutun."
+    ]
+  },
+  {
+    "id": 138,
+    "ad": "Trileçe (Karamel Soslu)",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "8 Kişilik",
+    "hazirlik_suresi": "20 dk",
+    "pisirme_suresi": "30 dk",
+    "sure": "50 dk",
+    "kalori": 330,
+    "protein": "7g",
+    "karbonhidrat": "46g",
+    "malzemeler": ["Un", "Süt", "Yumurta", "Krema"],
+    "hazirlanis": [
+      "1. Adım (15 dk): Yumuşak pandispanya keki yapıp fırında pişirin ve sütle ıslatın.",
+      "2. Adım (10 dk): Üzerine krem şanti katmanı yayın.",
+      "3. Adım (10 dk): En üste ev yapımı karamel sos döküp şekil vererek servis edin."
+    ]
+  },
+  {
+    "id": 139,
+    "ad": "Muzlu Rulo Pasta",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "6 Kişilik",
+    "hazirlik_suresi": "20 dk",
+    "pisirme_suresi": "10 dk",
+    "sure": "30 dk",
+    "kalori": 310,
+    "protein": "6g",
+    "karbonhidrat": "42g",
+    "malzemeler": ["Un", "Yumurta", "Süt", "Krema"],
+    "hazirlanis": [
+      "1. Adım (10 dk): İnce pandispanya kekini tepside pişirip sıcakken nemli bez yardımıyla rulo şeklinde sarın.",
+      "2. Adım (10 dk): Soğuyunca açıp içine krema sürün ve tam ortasına muz yerleştirip tekrar rulo yapın.",
+      "3. Adım (10 dk): Pudra şekeri serperek dilimleyip servis edin."
+    ]
+  },
+  {
+    "id": 140,
+    "ad": "Profiterollü Bardak Tatlısı",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "6 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "30 dk",
+    "kalori": 300,
+    "protein": "6g",
+    "karbonhidrat": "40g",
+    "malzemeler": ["Süt", "Un", "Yumurta", "Krema"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Minik profiterol topları hazırlayıp pişirin, kremasını yapıp kuplara paylaştırın.",
+      "2. Adım (10 dk): Üzerine çikolatalı muhallebi dökün.",
+      "3. Adım (10 dk): Buzdolabında soğutup çikolata parçalarıyla süsleyerek servis edin."
+    ]
+  },
+  {
+    "id": 141,
+    "ad": "Gelin Bohçası",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "6 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "30 dk",
+    "kalori": 280,
+    "protein": "5g",
+    "karbonhidrat": "38g",
+    "malzemeler": ["Un", "Süt", "Yumurta"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Krep hamurunu hazırlayıp tavada sadece tek tarafı pişecek şekilde küçük daireler halinde dökün.",
+      "2. Adım (10 dk): Pişen krep pişen yüzü içte kalacak şekilde katlayıp içine krem şanti doldurun ve yarım ay şeklinde kapatın.",
+      "3. Adım (5 dk): Antep fıstığına batırıp soğuk servis yapın."
+    ]
+  },
+  {
+    "id": 142,
+    "ad": "Ekler Pasta",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "6 Kişilik",
+    "hazirlik_suresi": "25 dk",
+    "pisirme_suresi": "25 dk",
+    "sure": "50 dk",
+    "kalori": 340,
+    "protein": "6g",
+    "karbonhidrat": "39g",
+    "malzemeler": ["Un", "Yumurta", "Tereyağı", "Süt"],
+    "hazirlanis": [
+      "1. Adım (15 dk): Choux hamurunu yapıp tepsiye uzunlamasına sıkın ve fırınlayın.",
+      "2. Adım (10 dk): İçine vanilyalı özel krema doldurun.",
+      "3. Adım (10 dk): Üst yüzeyini eritilmiş çikolatayla kaplayıp dinlendirin."
+    ]
+  },
+  {
+    "id": 143,
+    "ad": "Karamelli Trileçe",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "8 Kişilik",
+    "hazirlik_suresi": "20 dk",
+    "pisirme_suresi": "30 dk",
+    "sure": "50 dk",
+    "kalori": 335,
+    "protein": "7g",
+    "karbonhidrat": "47g",
+    "malzemeler": ["Un", "Süt", "Yumurta", "Krema"],
+    "hazirlanis": [
+      "1. Adım (15 dk): Kekini hazırlayıp fırında pişirin, süt ve krema karışımıyla ıslatın.",
+      "2. Adım (10 dk): Krem şanti sürüp buzdolabında dinlendirin.",
+      "3. Adım (10 dk): Üzerine akışkan karamel sos döküp dilimleyin."
+    ]
+  },
+  {
+    "id": 144,
+    "ad": "Meyveli Tart",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "6 Kişilik",
+    "hazirlik_suresi": "20 dk",
+    "pisirme_suresi": "20 dk",
+    "sure": "40 dk",
+    "kalori": 290,
+    "protein": "4g",
+    "karbonhidrat": "41g",
+    "malzemeler": ["Un", "Tereyağı", "Yumurta", "Süt"],
+    "hazirlanis": [
+      "1. Adım (15 dk): Tereyağı, un ve yumurta ile tart hamurunu yoğurup tart kalıbına şekil verin ve pişirin.",
+      "2. Adım (10 dk): İçine vanilyalı muhallebi veya krema dökün.",
+      "3. Adım (10 dk): Üzerini taze mevsim meyveleriyle süsleyerek servis yapın."
+    ]
+  },
+  {
+    "id": 145,
+    "ad": "Çikolatalı Truff",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "6 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "5 dk",
+    "sure": "20 dk",
+    "kalori": 310,
+    "protein": "5g",
+    "karbonhidrat": "36g",
+    "malzemeler": ["Krema", "Tereyağı"],
+    "hazirlanis": [
+      "1. Adım (5 dk): Sıcak kremayı çikolata ve tereyağı ile karıştırarak ganaj elde edin.",
+      "2. Adım (10 dk): Buzdolabında donan ganajdan parçalar koparıp avucunuzda top şeklinde yuvarlayın.",
+      "3. Adım (5 dk): Kakao, hindistancevizi veya fıstığa bulayıp servis tabağına dizin."
+    ]
+  },
+  {
+    "id": 146,
+    "ad": "Sütlü Nuriye",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "8 Kişilik",
+    "hazirlik_suresi": "25 dk",
+    "pisirme_suresi": "40 dk",
+    "sure": "65 dk",
+    "kalori": 390,
+    "protein": "6g",
+    "karbonhidrat": "50g",
+    "malzemeler": ["Un", "Tereyağı", "Süt"],
+    "hazirlanis": [
+      "1. Adım (20 dk): Baklava yufkalarının arasına tereyağı sürerek cevizle tepsiye kat kat döşeyip fırında kızartın.",
+      "2. Adım (10 dk): Şerbet yerine hafif şekerli süt karışımını ılık tatlının üzerine dökün.",
+      "3. Adım (15 dk): Sütünü çekince dilimleyip fıstıkla servis yapın."
+    ]
+  },
+  {
+    "id": 147,
+    "ad": "Cevizli Baklava (Ev Usulü)",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "10 Kişilik",
+    "hazirlik_suresi": "40 dk",
+    "pisirme_suresi": "45 dk",
+    "sure": "85 dk",
+    "kalori": 420,
+    "protein": "5g",
+    "karbonhidrat": "55g",
+    "malzemeler": ["Un", "Yumurta", "Tereyağı", "Sıvı Yağ"],
+    "hazirlanis": [
+      "1. Adım (30 dk): Un, yumurta ve su ile incecik açılan yufkaların arasına tereyağı ve bol ceviz koyarak tepsiye dizin.",
+      "2. Adım (45 dk): Kare dilimleyip kızgın tereyağı gezdirerek fırında nar gibi kızarana kadar pişirin.",
+      "3. Adım (10 dk): Sıcak tatlıya soğuk şerbet verip dinlendirin."
+    ]
+  },
+  {
+    "id": 148,
+    "ad": "Fıstık Sarma",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "8 Kişilik",
+    "hazirlik_suresi": "30 dk",
+    "pisirme_suresi": "30 dk",
+    "sure": "60 dk",
+    "kalori": 410,
+    "protein": "7g",
+    "karbonhidrat": "48g",
+    "malzemeler": ["Un", "Tereyağı"],
+    "hazirlanis": [
+      "1. Adım (20 dk): İnce açılmış hamurun üzerine bolca toz antep fıstığı serpiştirip oklavaya sararak büzün.",
+      "2. Adım (30 dk): Dilimleyip tepsiye dizin, üzerine eritilmiş tereyağı döküp fırında pişirin.",
+      "3. Adım (10 dk): Şerbetleyip soğuk servis yapın."
+    ]
+  },
+  {
+    "id": 149,
+    "ad": "Künefe (Ev Usulü Tavada)",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "4 Kişilik",
+    "hazirlik_suresi": "15 dk",
+    "pisirme_suresi": "15 dk",
+    "sure": "30 dk",
+    "kalori": 430,
+    "protein": "12g",
+    "karbonhidrat": "44g",
+    "malzemeler": ["Tereyağı", "Kaşar Peyniri"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Kadayıfı ince kıyıp eritilmiş tereyağı ve pekmezle harmanlayın, yarısını tepsiye veya tavaya sıkıca bastırın.",
+      "2. Adım (5 dk): Üzerine tuzsuz peynir veya kaşar peyniri dilimleri döşeyip kalan kadayıfla kapatın.",
+      "3. Adım (10 dk): Ocağın üstünde arkalı önlü kızartıp sıcak şerbet dökerek servis edin."
+    ]
+  },
+  {
+    "id": 150,
+    "ad": "Sütlaç (Fırınsız)",
+    "ogun": ["ogle", "aksam"],
+    "kisi_sayisi": "6 Kişilik",
+    "hazirlik_suresi": "10 dk",
+    "pisirme_suresi": "20 dk",
+    "sure": "30 dk",
+    "kalori": 220,
+    "protein": "6g",
+    "karbonhidrat": "36g",
+    "malzemeler": ["Süt", "Pirinç", "Un"],
+    "hazirlanis": [
+      "1. Adım (10 dk): Pirinci az suda haşlayın, süt ve şekeri ekleyip kaynamaya bırakın.",
+      "2. Adım (10 dk): Nişasta veya unu az suyla açıp tencereye ilave edin, kıvam alana kadar karıştırarak pişirin.",
+      "3. Adım (5 dk): Kaselere paylaştırıp soğuduktan sonra üzerine tarçın serperek servis yapın."
+    ]
+  }
+]

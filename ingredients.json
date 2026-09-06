@@ -1,0 +1,315 @@
+{
+  "categories": [
+    {
+      "key": "vegetables",
+      "icon": "🥦",
+      "label": {
+        "tr": "Sebzeler & Yeşillikler",
+        "en": "Vegetables & Greens"
+      },
+      "items": [
+        "Patates",
+        "Soğan",
+        "Domates",
+        "Biber",
+        "Sarımsak",
+        "Patlıcan",
+        "Kabak",
+        "Havuç",
+        "Mantar",
+        "Dereotu",
+        "Taze Fasulye",
+        "Karnabahar",
+        "Ispanak",
+        "Enginar",
+        "Avokado",
+        "Limon",
+        "Marul",
+        "Maydanoz",
+        "Nane"
+      ]
+    },
+    {
+      "key": "meat",
+      "icon": "🥩",
+      "label": {
+        "tr": "Et & Tavuk",
+        "en": "Meat & Poultry"
+      },
+      "items": [
+        "Kıyma",
+        "Kuşbaşı Et",
+        "Tavuk",
+        "Sucuk",
+        "Sosis"
+      ]
+    },
+    {
+      "key": "grains",
+      "icon": "🌾",
+      "label": {
+        "tr": "Baklagiller & Tahıllar",
+        "en": "Legumes & Grains"
+      },
+      "items": [
+        "Pirinç",
+        "Bulgur",
+        "Mercimek",
+        "Fasulye",
+        "Noodle"
+      ]
+    },
+    {
+      "key": "dairy",
+      "icon": "🧀",
+      "label": {
+        "tr": "Süt Ürünleri & Yumurta",
+        "en": "Dairy & Eggs"
+      },
+      "items": [
+        "Yumurta",
+        "Süt",
+        "Yoğurt",
+        "Krema",
+        "Kaşar Peyniri",
+        "Beyaz Peynir",
+        "Labne"
+      ]
+    },
+    {
+      "key": "oils_sauces",
+      "icon": "🧈",
+      "label": {
+        "tr": "Yağlar & Soslar",
+        "en": "Oils & Sauces"
+      },
+      "items": [
+        "Tereyağı",
+        "Sıvı Yağ",
+        "Zeytinyağı",
+        "Salça",
+        "Soya Sosu",
+        "Mayonez",
+        "Ketçap"
+      ]
+    },
+    {
+      "key": "bakery",
+      "icon": "🍞",
+      "label": {
+        "tr": "Unlu Mamüller",
+        "en": "Bakery & Flour"
+      },
+      "items": [
+        "Un",
+        "Yufka",
+        "Makarna",
+        "Ekmek",
+        "Milföy"
+      ]
+    }
+  ],
+  "ingredient_names": {
+    "Patates": {
+      "tr": "Patates",
+      "en": "Potato"
+    },
+    "Soğan": {
+      "tr": "Soğan",
+      "en": "Onion"
+    },
+    "Domates": {
+      "tr": "Domates",
+      "en": "Tomato"
+    },
+    "Biber": {
+      "tr": "Biber",
+      "en": "Pepper"
+    },
+    "Sarımsak": {
+      "tr": "Sarımsak",
+      "en": "Garlic"
+    },
+    "Patlıcan": {
+      "tr": "Patlıcan",
+      "en": "Eggplant"
+    },
+    "Kabak": {
+      "tr": "Kabak",
+      "en": "Zucchini"
+    },
+    "Havuç": {
+      "tr": "Havuç",
+      "en": "Carrot"
+    },
+    "Mantar": {
+      "tr": "Mantar",
+      "en": "Mushroom"
+    },
+    "Dereotu": {
+      "tr": "Dereotu",
+      "en": "Dill"
+    },
+    "Taze Fasulye": {
+      "tr": "Taze Fasulye",
+      "en": "Green Beans"
+    },
+    "Karnabahar": {
+      "tr": "Karnabahar",
+      "en": "Cauliflower"
+    },
+    "Ispanak": {
+      "tr": "Ispanak",
+      "en": "Spinach"
+    },
+    "Enginar": {
+      "tr": "Enginar",
+      "en": "Artichoke"
+    },
+    "Avokado": {
+      "tr": "Avokado",
+      "en": "Avocado"
+    },
+    "Limon": {
+      "tr": "Limon",
+      "en": "Lemon"
+    },
+    "Marul": {
+      "tr": "Marul",
+      "en": "Lettuce"
+    },
+    "Maydanoz": {
+      "tr": "Maydanoz",
+      "en": "Parsley"
+    },
+    "Nane": {
+      "tr": "Nane",
+      "en": "Mint"
+    },
+    "Kıyma": {
+      "tr": "Kıyma",
+      "en": "Ground Meat"
+    },
+    "Kuşbaşı Et": {
+      "tr": "Kuşbaşı Et",
+      "en": "Diced Meat"
+    },
+    "Tavuk": {
+      "tr": "Tavuk",
+      "en": "Chicken"
+    },
+    "Sucuk": {
+      "tr": "Sucuk",
+      "en": "Sucuk (Turkish Sausage)"
+    },
+    "Sosis": {
+      "tr": "Sosis",
+      "en": "Sausage"
+    },
+    "Pirinç": {
+      "tr": "Pirinç",
+      "en": "Rice"
+    },
+    "Bulgur": {
+      "tr": "Bulgur",
+      "en": "Bulgur"
+    },
+    "Mercimek": {
+      "tr": "Mercimek",
+      "en": "Lentils"
+    },
+    "Fasulye": {
+      "tr": "Fasulye",
+      "en": "Beans"
+    },
+    "Noodle": {
+      "tr": "Noodle",
+      "en": "Noodles"
+    },
+    "Yumurta": {
+      "tr": "Yumurta",
+      "en": "Eggs"
+    },
+    "Süt": {
+      "tr": "Süt",
+      "en": "Milk"
+    },
+    "Yoğurt": {
+      "tr": "Yoğurt",
+      "en": "Yogurt"
+    },
+    "Krema": {
+      "tr": "Krema",
+      "en": "Cream"
+    },
+    "Kaşar Peyniri": {
+      "tr": "Kaşar Peyniri",
+      "en": "Kashar Cheese"
+    },
+    "Beyaz Peynir": {
+      "tr": "Beyaz Peynir",
+      "en": "White Cheese"
+    },
+    "Labne": {
+      "tr": "Labne",
+      "en": "Labneh"
+    },
+    "Tereyağı": {
+      "tr": "Tereyağı",
+      "en": "Butter"
+    },
+    "Sıvı Yağ": {
+      "tr": "Sıvı Yağ",
+      "en": "Cooking Oil"
+    },
+    "Zeytinyağı": {
+      "tr": "Zeytinyağı",
+      "en": "Olive Oil"
+    },
+    "Salça": {
+      "tr": "Salça",
+      "en": "Tomato Paste"
+    },
+    "Soya Sosu": {
+      "tr": "Soya Sosu",
+      "en": "Soy Sauce"
+    },
+    "Mayonez": {
+      "tr": "Mayonez",
+      "en": "Mayonnaise"
+    },
+    "Ketçap": {
+      "tr": "Ketçap",
+      "en": "Ketchup"
+    },
+    "Un": {
+      "tr": "Un",
+      "en": "Flour"
+    },
+    "Yufka": {
+      "tr": "Yufka",
+      "en": "Phyllo Dough"
+    },
+    "Makarna": {
+      "tr": "Makarna",
+      "en": "Pasta"
+    },
+    "Ekmek": {
+      "tr": "Ekmek",
+      "en": "Bread"
+    },
+    "Milföy": {
+      "tr": "Milföy",
+      "en": "Puff Pastry"
+    },
+    "Karbonhidrat": {
+      "tr": "Karbonhidrat",
+      "en": "Carbohydrate"
+    }
+  },
+  "seasonal_out_of_season": [
+    "Karnabahar",
+    "Ispanak",
+    "Enginar"
+  ]
+}
