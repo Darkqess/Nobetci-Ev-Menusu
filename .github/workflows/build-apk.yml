@@ -13,19 +13,17 @@ jobs:
 
     steps:
       - name: Kodu indir
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
 
       - name: Flet APK oluştur
         id: build
         uses: flet-dev/flet-build-action@v1
         with:
           target: apk
-          runner-python-version: "3.14"
-          bundled-python-version: "3.14"
           build-number: ${{ github.run_number }}
 
       - name: APK'yı yükle
-        uses: actions/upload-artifact@v7
+        uses: actions/upload-artifact@v4
         with:
           name: notcu-ev-apk
           path: ${{ steps.build.outputs.archive-path }}
